@@ -1,0 +1,22 @@
+{
+  "globally ( and ( until ( scan , not ( any cubes ) ) , finally ( any cubes ) ) )": {
+    "formula": "globally ( and ( until ( scan , not ( any cubes ) ) , finally ( any cubes ) ) )",
+    "raw": "G & U S ! A F A"
+  },
+  "globally ( and ( until ( scan , not ( any non red cubes ) ) , finally ( any non red cubes ) ) )": {
+    "formula": "globally ( and ( until ( scan , not ( any non red cubes ) ) , finally ( any non red cubes ) ) )",
+    "raw": "G & U S ! R F R"
+  },
+  "globally ( and ( until ( scan , not ( any non blue cubes ) ) , finally ( any non blue cubes ) ) )": {
+    "formula": "globally ( and ( until ( scan , not ( any non blue cubes ) ) , finally ( any non blue cubes ) ) )",
+    "raw": "G & U S ! B F B"
+  },
+  "globally ( and ( until ( scan , not ( any non yellow cubes ) ) , finally ( any non yellow cubes ) ) )": {
+    "formula": "globally ( and ( until ( scan , not ( any non yellow cubes ) ) , finally ( any non yellow cubes ) ) )",
+    "raw": "G & U S ! Y F Y"
+  },
+  "globally ( and ( until ( scan , not ( any non green cubes ) ) , finally ( any non green cubes ) ) )": {
+    "formula": "globally ( and ( until ( scan , not ( any non green cubes ) ) , finally ( any non green cubes ) ) )",
+    "raw": "G & U S ! C F C"
+  }
+}

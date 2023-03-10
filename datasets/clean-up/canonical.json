@@ -1,0 +1,218 @@
+{
+  "finally go to the blue room": {
+    "formula": "finally go to the blue room",
+    "raw": "F B"
+  },
+  "finally ( and (  go to the blue room , finally ( go to the red room )  )  )": {
+    "formula": "finally ( and (  go to the blue room , finally ( go to the red room )  )  )",
+    "raw": "F & B F R"
+  },
+  "and ( finally ( go to the blue room ) , globally ( not ( go to the red room ) ) )": {
+    "formula": "and ( finally ( go to the blue room ) , globally ( not ( go to the red room ) ) )",
+    "raw": "& F B G ! R"
+  },
+  "finally ( and ( or ( go to the blue room , go to the red room ) , finally ( go to the yellow room ) ) )": {
+    "formula": "finally ( and ( or ( go to the blue room , go to the red room ) , finally ( go to the yellow room ) ) )",
+    "raw": "F & | B R F Y"
+  },
+  "finally ( and ( or ( go to the blue room , go to the red room ) , finally ( go to the green room ) ) )": {
+    "formula": "finally ( and ( or ( go to the blue room , go to the red room ) , finally ( go to the green room ) ) )",
+    "raw": "F & | B R F C"
+  },
+  "finally ( and (  go to the blue room , finally ( go to the yellow room )  )  )": {
+    "formula": "finally ( and (  go to the blue room , finally ( go to the yellow room )  )  )",
+    "raw": "F & B F Y"
+  },
+  "and ( finally ( go to the blue room ) , globally ( not ( go to the yellow room ) ) )": {
+    "formula": "and ( finally ( go to the blue room ) , globally ( not ( go to the yellow room ) ) )",
+    "raw": "& F B G ! Y"
+  },
+  "finally ( and ( or ( go to the blue room , go to the yellow room ) , finally ( go to the red room ) ) )": {
+    "formula": "finally ( and ( or ( go to the blue room , go to the yellow room ) , finally ( go to the red room ) ) )",
+    "raw": "F & | B Y F R"
+  },
+  "finally ( and ( or ( go to the blue room , go to the yellow room ) , finally ( go to the green room ) ) )": {
+    "formula": "finally ( and ( or ( go to the blue room , go to the yellow room ) , finally ( go to the green room ) ) )",
+    "raw": "F & | B Y F C"
+  },
+  "finally ( and (  go to the blue room , finally ( go to the green room )  )  )": {
+    "formula": "finally ( and (  go to the blue room , finally ( go to the green room )  )  )",
+    "raw": "F & B F C"
+  },
+  "and ( finally ( go to the blue room ) , globally ( not ( go to the green room ) ) )": {
+    "formula": "and ( finally ( go to the blue room ) , globally ( not ( go to the green room ) ) )",
+    "raw": "& F B G ! C"
+  },
+  "finally ( and ( or ( go to the blue room , go to the green room ) , finally ( go to the red room ) ) )": {
+    "formula": "finally ( and ( or ( go to the blue room , go to the green room ) , finally ( go to the red room ) ) )",
+    "raw": "F & | B C F R"
+  },
+  "finally ( and ( or ( go to the blue room , go to the green room ) , finally ( go to the yellow room ) ) )": {
+    "formula": "finally ( and ( or ( go to the blue room , go to the green room ) , finally ( go to the yellow room ) ) )",
+    "raw": "F & | B C F Y"
+  },
+  "finally go to the red room": {
+    "formula": "finally go to the red room",
+    "raw": "F R"
+  },
+  "finally ( and (  go to the red room , finally ( go to the blue room )  )  )": {
+    "formula": "finally ( and (  go to the red room , finally ( go to the blue room )  )  )",
+    "raw": "F & R F B"
+  },
+  "and ( finally ( go to the red room ) , globally ( not ( go to the blue room ) ) )": {
+    "formula": "and ( finally ( go to the red room ) , globally ( not ( go to the blue room ) ) )",
+    "raw": "& F R G ! B"
+  },
+  "finally ( and ( or ( go to the red room , go to the blue room ) , finally ( go to the yellow room ) ) )": {
+    "formula": "finally ( and ( or ( go to the red room , go to the blue room ) , finally ( go to the yellow room ) ) )",
+    "raw": "F & | R B F Y"
+  },
+  "finally ( and ( or ( go to the red room , go to the blue room ) , finally ( go to the green room ) ) )": {
+    "formula": "finally ( and ( or ( go to the red room , go to the blue room ) , finally ( go to the green room ) ) )",
+    "raw": "F & | R B F C"
+  },
+  "finally ( and (  go to the red room , finally ( go to the yellow room )  )  )": {
+    "formula": "finally ( and (  go to the red room , finally ( go to the yellow room )  )  )",
+    "raw": "F & R F Y"
+  },
+  "and ( finally ( go to the red room ) , globally ( not ( go to the yellow room ) ) )": {
+    "formula": "and ( finally ( go to the red room ) , globally ( not ( go to the yellow room ) ) )",
+    "raw": "& F R G ! Y"
+  },
+  "finally ( and ( or ( go to the red room , go to the yellow room ) , finally ( go to the blue room ) ) )": {
+    "formula": "finally ( and ( or ( go to the red room , go to the yellow room ) , finally ( go to the blue room ) ) )",
+    "raw": "F & | R Y F B"
+  },
+  "finally ( and ( or ( go to the red room , go to the yellow room ) , finally ( go to the green room ) ) )": {
+    "formula": "finally ( and ( or ( go to the red room , go to the yellow room ) , finally ( go to the green room ) ) )",
+    "raw": "F & | R Y F C"
+  },
+  "finally ( and (  go to the red room , finally ( go to the green room )  )  )": {
+    "formula": "finally ( and (  go to the red room , finally ( go to the green room )  )  )",
+    "raw": "F & R F C"
+  },
+  "and ( finally ( go to the red room ) , globally ( not ( go to the green room ) ) )": {
+    "formula": "and ( finally ( go to the red room ) , globally ( not ( go to the green room ) ) )",
+    "raw": "& F R G ! C"
+  },
+  "finally ( and ( or ( go to the red room , go to the green room ) , finally ( go to the blue room ) ) )": {
+    "formula": "finally ( and ( or ( go to the red room , go to the green room ) , finally ( go to the blue room ) ) )",
+    "raw": "F & | R C F B"
+  },
+  "finally ( and ( or ( go to the red room , go to the green room ) , finally ( go to the yellow room ) ) )": {
+    "formula": "finally ( and ( or ( go to the red room , go to the green room ) , finally ( go to the yellow room ) ) )",
+    "raw": "F & | R C F Y"
+  },
+  "finally go to the yellow room": {
+    "formula": "finally go to the yellow room",
+    "raw": "F Y"
+  },
+  "finally ( and (  go to the yellow room , finally ( go to the blue room )  )  )": {
+    "formula": "finally ( and (  go to the yellow room , finally ( go to the blue room )  )  )",
+    "raw": "F & Y F B"
+  },
+  "and ( finally ( go to the yellow room ) , globally ( not ( go to the blue room ) ) )": {
+    "formula": "and ( finally ( go to the yellow room ) , globally ( not ( go to the blue room ) ) )",
+    "raw": "& F Y G ! B"
+  },
+  "finally ( and ( or ( go to the yellow room , go to the blue room ) , finally ( go to the red room ) ) )": {
+    "formula": "finally ( and ( or ( go to the yellow room , go to the blue room ) , finally ( go to the red room ) ) )",
+    "raw": "F & | Y B F R"
+  },
+  "finally ( and ( or ( go to the yellow room , go to the blue room ) , finally ( go to the green room ) ) )": {
+    "formula": "finally ( and ( or ( go to the yellow room , go to the blue room ) , finally ( go to the green room ) ) )",
+    "raw": "F & | Y B F C"
+  },
+  "finally ( and (  go to the yellow room , finally ( go to the red room )  )  )": {
+    "formula": "finally ( and (  go to the yellow room , finally ( go to the red room )  )  )",
+    "raw": "F & Y F R"
+  },
+  "and ( finally ( go to the yellow room ) , globally ( not ( go to the red room ) ) )": {
+    "formula": "and ( finally ( go to the yellow room ) , globally ( not ( go to the red room ) ) )",
+    "raw": "& F Y G ! R"
+  },
+  "finally ( and ( or ( go to the yellow room , go to the red room ) , finally ( go to the blue room ) ) )": {
+    "formula": "finally ( and ( or ( go to the yellow room , go to the red room ) , finally ( go to the blue room ) ) )",
+    "raw": "F & | Y R F B"
+  },
+  "finally ( and ( or ( go to the yellow room , go to the red room ) , finally ( go to the green room ) ) )": {
+    "formula": "finally ( and ( or ( go to the yellow room , go to the red room ) , finally ( go to the green room ) ) )",
+    "raw": "F & | Y R F C"
+  },
+  "finally ( and (  go to the yellow room , finally ( go to the green room )  )  )": {
+    "formula": "finally ( and (  go to the yellow room , finally ( go to the green room )  )  )",
+    "raw": "F & Y F C"
+  },
+  "and ( finally ( go to the yellow room ) , globally ( not ( go to the green room ) ) )": {
+    "formula": "and ( finally ( go to the yellow room ) , globally ( not ( go to the green room ) ) )",
+    "raw": "& F Y G ! C"
+  },
+  "finally ( and ( or ( go to the yellow room , go to the green room ) , finally ( go to the blue room ) ) )": {
+    "formula": "finally ( and ( or ( go to the yellow room , go to the green room ) , finally ( go to the blue room ) ) )",
+    "raw": "F & | Y C F B"
+  },
+  "finally ( and ( or ( go to the yellow room , go to the green room ) , finally ( go to the red room ) ) )": {
+    "formula": "finally ( and ( or ( go to the yellow room , go to the green room ) , finally ( go to the red room ) ) )",
+    "raw": "F & | Y C F R"
+  },
+  "finally go to the green room": {
+    "formula": "finally go to the green room",
+    "raw": "F C"
+  },
+  "finally ( and (  go to the green room , finally ( go to the blue room )  )  )": {
+    "formula": "finally ( and (  go to the green room , finally ( go to the blue room )  )  )",
+    "raw": "F & C F B"
+  },
+  "and ( finally ( go to the green room ) , globally ( not ( go to the blue room ) ) )": {
+    "formula": "and ( finally ( go to the green room ) , globally ( not ( go to the blue room ) ) )",
+    "raw": "& F C G ! B"
+  },
+  "finally ( and ( or ( go to the green room , go to the blue room ) , finally ( go to the red room ) ) )": {
+    "formula": "finally ( and ( or ( go to the green room , go to the blue room ) , finally ( go to the red room ) ) )",
+    "raw": "F & | C B F R"
+  },
+  "finally ( and ( or ( go to the green room , go to the blue room ) , finally ( go to the yellow room ) ) )": {
+    "formula": "finally ( and ( or ( go to the green room , go to the blue room ) , finally ( go to the yellow room ) ) )",
+    "raw": "F & | C B F Y"
+  },
+  "finally ( and (  go to the green room , finally ( go to the red room )  )  )": {
+    "formula": "finally ( and (  go to the green room , finally ( go to the red room )  )  )",
+    "raw": "F & C F R"
+  },
+  "and ( finally ( go to the green room ) , globally ( not ( go to the red room ) ) )": {
+    "formula": "and ( finally ( go to the green room ) , globally ( not ( go to the red room ) ) )",
+    "raw": "& F C G ! R"
+  },
+  "finally ( and ( or ( go to the green room , go to the red room ) , finally ( go to the blue room ) ) )": {
+    "formula": "finally ( and ( or ( go to the green room , go to the red room ) , finally ( go to the blue room ) ) )",
+    "raw": "F & | C R F B"
+  },
+  "finally ( and ( or ( go to the green room , go to the red room ) , finally ( go to the yellow room ) ) )": {
+    "formula": "finally ( and ( or ( go to the green room , go to the red room ) , finally ( go to the yellow room ) ) )",
+    "raw": "F & | C R F Y"
+  },
+  "finally ( and (  go to the green room , finally ( go to the yellow room )  )  )": {
+    "formula": "finally ( and (  go to the green room , finally ( go to the yellow room )  )  )",
+    "raw": "F & C F Y"
+  },
+  "and ( finally ( go to the green room ) , globally ( not ( go to the yellow room ) ) )": {
+    "formula": "and ( finally ( go to the green room ) , globally ( not ( go to the yellow room ) ) )",
+    "raw": "& F C G ! Y"
+  },
+  "finally ( and ( or ( go to the green room , go to the yellow room ) , finally ( go to the blue room ) ) )": {
+    "formula": "finally ( and ( or ( go to the green room , go to the yellow room ) , finally ( go to the blue room ) ) )",
+    "raw": "F & | C Y F B"
+  },
+  "finally ( and ( or ( go to the green room , go to the yellow room ) , finally ( go to the red room ) ) )": {
+    "formula": "finally ( and ( or ( go to the green room , go to the yellow room ) , finally ( go to the red room ) ) )",
+    "raw": "F & | C Y F R"
+  },
+  "finally ( and (  go to the red room , finally ( go to the blue room with chair )  )  )": {
+    "formula": "finally ( and (  go to the red room , finally ( go to the blue room with chair )  )  )",
+    "raw": "F & R F X"
+  },
+  "finally ( and (  go to the red room , finally ( go to the green room with chair )  )  )": {
+    "formula": "finally ( and (  go to the red room , finally ( go to the green room with chair )  )  )",
+    "raw": "F & R F Z"
+  }
+}

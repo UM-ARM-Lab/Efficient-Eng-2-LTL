@@ -1,0 +1,2162 @@
+{
+  "finally ( the blue room )": {
+    "formula": "finally ( the blue room )",
+    "raw": "F ( blue_room )"
+  },
+  "finally ( and ( the blue room , finally ( the green room ) ) )": {
+    "formula": "finally ( and ( the blue room , finally ( the green room ) ) )",
+    "raw": "F ( blue_room & F ( green_room ) )"
+  },
+  "and ( finally ( the blue room ) , always ( the green room ) )": {
+    "formula": "and ( finally ( the blue room ) , always ( the green room ) )",
+    "raw": "F ( blue_room ) & G ( green_room )"
+  },
+  "finally ( and ( the blue room , not ( the green room ) ) )": {
+    "formula": "finally ( and ( the blue room , not ( the green room ) ) )",
+    "raw": "F ( blue_room & ~ green_room )"
+  },
+  "until ( not ( the blue room ) , the green room )": {
+    "formula": "until ( not ( the blue room ) , the green room )",
+    "raw": "~ ( blue_room ) U ( green_room )"
+  },
+  "finally ( and ( the blue room , finally ( the orange room ) ) )": {
+    "formula": "finally ( and ( the blue room , finally ( the orange room ) ) )",
+    "raw": "F ( blue_room & F ( orange_room ) )"
+  },
+  "and ( finally ( the blue room ) , always ( the orange room ) )": {
+    "formula": "and ( finally ( the blue room ) , always ( the orange room ) )",
+    "raw": "F ( blue_room ) & G ( orange_room )"
+  },
+  "finally ( and ( the blue room , not ( the orange room ) ) )": {
+    "formula": "finally ( and ( the blue room , not ( the orange room ) ) )",
+    "raw": "F ( blue_room & ~ orange_room )"
+  },
+  "until ( not ( the blue room ) , the orange room )": {
+    "formula": "until ( not ( the blue room ) , the orange room )",
+    "raw": "~ ( blue_room ) U ( orange_room )"
+  },
+  "finally ( and ( the blue room , finally ( the purple room ) ) )": {
+    "formula": "finally ( and ( the blue room , finally ( the purple room ) ) )",
+    "raw": "F ( blue_room & F ( purple_room ) )"
+  },
+  "and ( finally ( the blue room ) , always ( the purple room ) )": {
+    "formula": "and ( finally ( the blue room ) , always ( the purple room ) )",
+    "raw": "F ( blue_room ) & G ( purple_room )"
+  },
+  "finally ( and ( the blue room , not ( the purple room ) ) )": {
+    "formula": "finally ( and ( the blue room , not ( the purple room ) ) )",
+    "raw": "F ( blue_room & ~ purple_room )"
+  },
+  "until ( not ( the blue room ) , the purple room )": {
+    "formula": "until ( not ( the blue room ) , the purple room )",
+    "raw": "~ ( blue_room ) U ( purple_room )"
+  },
+  "finally ( and ( the blue room , finally ( the red room ) ) )": {
+    "formula": "finally ( and ( the blue room , finally ( the red room ) ) )",
+    "raw": "F ( blue_room & F ( red_room ) )"
+  },
+  "and ( finally ( the blue room ) , always ( the red room ) )": {
+    "formula": "and ( finally ( the blue room ) , always ( the red room ) )",
+    "raw": "F ( blue_room ) & G ( red_room )"
+  },
+  "finally ( and ( the blue room , not ( the red room ) ) )": {
+    "formula": "finally ( and ( the blue room , not ( the red room ) ) )",
+    "raw": "F ( blue_room & ~ red_room )"
+  },
+  "until ( not ( the blue room ) , the red room )": {
+    "formula": "until ( not ( the blue room ) , the red room )",
+    "raw": "~ ( blue_room ) U ( red_room )"
+  },
+  "finally ( and ( the blue room , finally ( the yellow room ) ) )": {
+    "formula": "finally ( and ( the blue room , finally ( the yellow room ) ) )",
+    "raw": "F ( blue_room & F ( yellow_room ) )"
+  },
+  "and ( finally ( the blue room ) , always ( the yellow room ) )": {
+    "formula": "and ( finally ( the blue room ) , always ( the yellow room ) )",
+    "raw": "F ( blue_room ) & G ( yellow_room )"
+  },
+  "finally ( and ( the blue room , not ( the yellow room ) ) )": {
+    "formula": "finally ( and ( the blue room , not ( the yellow room ) ) )",
+    "raw": "F ( blue_room & ~ yellow_room )"
+  },
+  "until ( not ( the blue room ) , the yellow room )": {
+    "formula": "until ( not ( the blue room ) , the yellow room )",
+    "raw": "~ ( blue_room ) U ( yellow_room )"
+  },
+  "finally ( and ( the blue room , finally ( the first floor ) ) )": {
+    "formula": "finally ( and ( the blue room , finally ( the first floor ) ) )",
+    "raw": "F ( blue_room & F ( first_floor ) )"
+  },
+  "and ( finally ( the blue room ) , always ( the first floor ) )": {
+    "formula": "and ( finally ( the blue room ) , always ( the first floor ) )",
+    "raw": "F ( blue_room ) & G ( first_floor )"
+  },
+  "finally ( and ( the blue room , not ( the first floor ) ) )": {
+    "formula": "finally ( and ( the blue room , not ( the first floor ) ) )",
+    "raw": "F ( blue_room & ~ first_floor )"
+  },
+  "until ( not ( the blue room ) , the first floor )": {
+    "formula": "until ( not ( the blue room ) , the first floor )",
+    "raw": "~ ( blue_room ) U ( first_floor )"
+  },
+  "finally ( and ( the blue room , finally ( the second floor ) ) )": {
+    "formula": "finally ( and ( the blue room , finally ( the second floor ) ) )",
+    "raw": "F ( blue_room & F ( second_floor ) )"
+  },
+  "and ( finally ( the blue room ) , always ( the second floor ) )": {
+    "formula": "and ( finally ( the blue room ) , always ( the second floor ) )",
+    "raw": "F ( blue_room ) & G ( second_floor )"
+  },
+  "finally ( and ( the blue room , not ( the second floor ) ) )": {
+    "formula": "finally ( and ( the blue room , not ( the second floor ) ) )",
+    "raw": "F ( blue_room & ~ second_floor )"
+  },
+  "until ( not ( the blue room ) , the second floor )": {
+    "formula": "until ( not ( the blue room ) , the second floor )",
+    "raw": "~ ( blue_room ) U ( second_floor )"
+  },
+  "finally ( and ( the blue room , finally ( the third floor ) ) )": {
+    "formula": "finally ( and ( the blue room , finally ( the third floor ) ) )",
+    "raw": "F ( blue_room & F ( third_floor ) )"
+  },
+  "and ( finally ( the blue room ) , always ( the third floor ) )": {
+    "formula": "and ( finally ( the blue room ) , always ( the third floor ) )",
+    "raw": "F ( blue_room ) & G ( third_floor )"
+  },
+  "finally ( and ( the blue room , not ( the third floor ) ) )": {
+    "formula": "finally ( and ( the blue room , not ( the third floor ) ) )",
+    "raw": "F ( blue_room & ~ third_floor )"
+  },
+  "until ( not ( the blue room ) , the third floor )": {
+    "formula": "until ( not ( the blue room ) , the third floor )",
+    "raw": "~ ( blue_room ) U ( third_floor )"
+  },
+  "finally ( and ( the blue room , finally ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the blue room , finally ( landmark 1 ) ) )",
+    "raw": "F ( blue_room & F ( landmark_1 ) )"
+  },
+  "and ( finally ( the blue room ) , always ( landmark 1 ) )": {
+    "formula": "and ( finally ( the blue room ) , always ( landmark 1 ) )",
+    "raw": "F ( blue_room ) & G ( landmark_1 )"
+  },
+  "finally ( and ( the blue room , not ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the blue room , not ( landmark 1 ) ) )",
+    "raw": "F ( blue_room & ~ landmark_1 )"
+  },
+  "until ( not ( the blue room ) , landmark 1 )": {
+    "formula": "until ( not ( the blue room ) , landmark 1 )",
+    "raw": "~ ( blue_room ) U ( landmark_1 )"
+  },
+  "finally ( and ( the blue room , finally ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the blue room , finally ( landmark 2 ) ) )",
+    "raw": "F ( blue_room & F ( landmark_2 ) )"
+  },
+  "and ( finally ( the blue room ) , always ( landmark 2 ) )": {
+    "formula": "and ( finally ( the blue room ) , always ( landmark 2 ) )",
+    "raw": "F ( blue_room ) & G ( landmark_2 )"
+  },
+  "finally ( and ( the blue room , not ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the blue room , not ( landmark 2 ) ) )",
+    "raw": "F ( blue_room & ~ landmark_2 )"
+  },
+  "until ( not ( the blue room ) , landmark 2 )": {
+    "formula": "until ( not ( the blue room ) , landmark 2 )",
+    "raw": "~ ( blue_room ) U ( landmark_2 )"
+  },
+  "finally ( and ( the blue room , finally ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the blue room , finally ( landmark 3 ) ) )",
+    "raw": "F ( blue_room & F ( landmark_3 ) )"
+  },
+  "and ( finally ( the blue room ) , always ( landmark 3 ) )": {
+    "formula": "and ( finally ( the blue room ) , always ( landmark 3 ) )",
+    "raw": "F ( blue_room ) & G ( landmark_3 )"
+  },
+  "finally ( and ( the blue room , not ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the blue room , not ( landmark 3 ) ) )",
+    "raw": "F ( blue_room & ~ landmark_3 )"
+  },
+  "until ( not ( the blue room ) , landmark 3 )": {
+    "formula": "until ( not ( the blue room ) , landmark 3 )",
+    "raw": "~ ( blue_room ) U ( landmark_3 )"
+  },
+  "finally ( the green room )": {
+    "formula": "finally ( the green room )",
+    "raw": "F ( green_room )"
+  },
+  "finally ( and ( the green room , finally ( the blue room ) ) )": {
+    "formula": "finally ( and ( the green room , finally ( the blue room ) ) )",
+    "raw": "F ( green_room & F ( blue_room ) )"
+  },
+  "and ( finally ( the green room ) , always ( the blue room ) )": {
+    "formula": "and ( finally ( the green room ) , always ( the blue room ) )",
+    "raw": "F ( green_room ) & G ( blue_room )"
+  },
+  "finally ( and ( the green room , not ( the blue room ) ) )": {
+    "formula": "finally ( and ( the green room , not ( the blue room ) ) )",
+    "raw": "F ( green_room & ~ blue_room )"
+  },
+  "until ( not ( the green room ) , the blue room )": {
+    "formula": "until ( not ( the green room ) , the blue room )",
+    "raw": "~ ( green_room ) U ( blue_room )"
+  },
+  "finally ( and ( the green room , finally ( the orange room ) ) )": {
+    "formula": "finally ( and ( the green room , finally ( the orange room ) ) )",
+    "raw": "F ( green_room & F ( orange_room ) )"
+  },
+  "and ( finally ( the green room ) , always ( the orange room ) )": {
+    "formula": "and ( finally ( the green room ) , always ( the orange room ) )",
+    "raw": "F ( green_room ) & G ( orange_room )"
+  },
+  "finally ( and ( the green room , not ( the orange room ) ) )": {
+    "formula": "finally ( and ( the green room , not ( the orange room ) ) )",
+    "raw": "F ( green_room & ~ orange_room )"
+  },
+  "until ( not ( the green room ) , the orange room )": {
+    "formula": "until ( not ( the green room ) , the orange room )",
+    "raw": "~ ( green_room ) U ( orange_room )"
+  },
+  "finally ( and ( the green room , finally ( the purple room ) ) )": {
+    "formula": "finally ( and ( the green room , finally ( the purple room ) ) )",
+    "raw": "F ( green_room & F ( purple_room ) )"
+  },
+  "and ( finally ( the green room ) , always ( the purple room ) )": {
+    "formula": "and ( finally ( the green room ) , always ( the purple room ) )",
+    "raw": "F ( green_room ) & G ( purple_room )"
+  },
+  "finally ( and ( the green room , not ( the purple room ) ) )": {
+    "formula": "finally ( and ( the green room , not ( the purple room ) ) )",
+    "raw": "F ( green_room & ~ purple_room )"
+  },
+  "until ( not ( the green room ) , the purple room )": {
+    "formula": "until ( not ( the green room ) , the purple room )",
+    "raw": "~ ( green_room ) U ( purple_room )"
+  },
+  "finally ( and ( the green room , finally ( the red room ) ) )": {
+    "formula": "finally ( and ( the green room , finally ( the red room ) ) )",
+    "raw": "F ( green_room & F ( red_room ) )"
+  },
+  "and ( finally ( the green room ) , always ( the red room ) )": {
+    "formula": "and ( finally ( the green room ) , always ( the red room ) )",
+    "raw": "F ( green_room ) & G ( red_room )"
+  },
+  "finally ( and ( the green room , not ( the red room ) ) )": {
+    "formula": "finally ( and ( the green room , not ( the red room ) ) )",
+    "raw": "F ( green_room & ~ red_room )"
+  },
+  "until ( not ( the green room ) , the red room )": {
+    "formula": "until ( not ( the green room ) , the red room )",
+    "raw": "~ ( green_room ) U ( red_room )"
+  },
+  "finally ( and ( the green room , finally ( the yellow room ) ) )": {
+    "formula": "finally ( and ( the green room , finally ( the yellow room ) ) )",
+    "raw": "F ( green_room & F ( yellow_room ) )"
+  },
+  "and ( finally ( the green room ) , always ( the yellow room ) )": {
+    "formula": "and ( finally ( the green room ) , always ( the yellow room ) )",
+    "raw": "F ( green_room ) & G ( yellow_room )"
+  },
+  "finally ( and ( the green room , not ( the yellow room ) ) )": {
+    "formula": "finally ( and ( the green room , not ( the yellow room ) ) )",
+    "raw": "F ( green_room & ~ yellow_room )"
+  },
+  "until ( not ( the green room ) , the yellow room )": {
+    "formula": "until ( not ( the green room ) , the yellow room )",
+    "raw": "~ ( green_room ) U ( yellow_room )"
+  },
+  "finally ( and ( the green room , finally ( the first floor ) ) )": {
+    "formula": "finally ( and ( the green room , finally ( the first floor ) ) )",
+    "raw": "F ( green_room & F ( first_floor ) )"
+  },
+  "and ( finally ( the green room ) , always ( the first floor ) )": {
+    "formula": "and ( finally ( the green room ) , always ( the first floor ) )",
+    "raw": "F ( green_room ) & G ( first_floor )"
+  },
+  "finally ( and ( the green room , not ( the first floor ) ) )": {
+    "formula": "finally ( and ( the green room , not ( the first floor ) ) )",
+    "raw": "F ( green_room & ~ first_floor )"
+  },
+  "until ( not ( the green room ) , the first floor )": {
+    "formula": "until ( not ( the green room ) , the first floor )",
+    "raw": "~ ( green_room ) U ( first_floor )"
+  },
+  "finally ( and ( the green room , finally ( the second floor ) ) )": {
+    "formula": "finally ( and ( the green room , finally ( the second floor ) ) )",
+    "raw": "F ( green_room & F ( second_floor ) )"
+  },
+  "and ( finally ( the green room ) , always ( the second floor ) )": {
+    "formula": "and ( finally ( the green room ) , always ( the second floor ) )",
+    "raw": "F ( green_room ) & G ( second_floor )"
+  },
+  "finally ( and ( the green room , not ( the second floor ) ) )": {
+    "formula": "finally ( and ( the green room , not ( the second floor ) ) )",
+    "raw": "F ( green_room & ~ second_floor )"
+  },
+  "until ( not ( the green room ) , the second floor )": {
+    "formula": "until ( not ( the green room ) , the second floor )",
+    "raw": "~ ( green_room ) U ( second_floor )"
+  },
+  "finally ( and ( the green room , finally ( the third floor ) ) )": {
+    "formula": "finally ( and ( the green room , finally ( the third floor ) ) )",
+    "raw": "F ( green_room & F ( third_floor ) )"
+  },
+  "and ( finally ( the green room ) , always ( the third floor ) )": {
+    "formula": "and ( finally ( the green room ) , always ( the third floor ) )",
+    "raw": "F ( green_room ) & G ( third_floor )"
+  },
+  "finally ( and ( the green room , not ( the third floor ) ) )": {
+    "formula": "finally ( and ( the green room , not ( the third floor ) ) )",
+    "raw": "F ( green_room & ~ third_floor )"
+  },
+  "until ( not ( the green room ) , the third floor )": {
+    "formula": "until ( not ( the green room ) , the third floor )",
+    "raw": "~ ( green_room ) U ( third_floor )"
+  },
+  "finally ( and ( the green room , finally ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the green room , finally ( landmark 1 ) ) )",
+    "raw": "F ( green_room & F ( landmark_1 ) )"
+  },
+  "and ( finally ( the green room ) , always ( landmark 1 ) )": {
+    "formula": "and ( finally ( the green room ) , always ( landmark 1 ) )",
+    "raw": "F ( green_room ) & G ( landmark_1 )"
+  },
+  "finally ( and ( the green room , not ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the green room , not ( landmark 1 ) ) )",
+    "raw": "F ( green_room & ~ landmark_1 )"
+  },
+  "until ( not ( the green room ) , landmark 1 )": {
+    "formula": "until ( not ( the green room ) , landmark 1 )",
+    "raw": "~ ( green_room ) U ( landmark_1 )"
+  },
+  "finally ( and ( the green room , finally ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the green room , finally ( landmark 2 ) ) )",
+    "raw": "F ( green_room & F ( landmark_2 ) )"
+  },
+  "and ( finally ( the green room ) , always ( landmark 2 ) )": {
+    "formula": "and ( finally ( the green room ) , always ( landmark 2 ) )",
+    "raw": "F ( green_room ) & G ( landmark_2 )"
+  },
+  "finally ( and ( the green room , not ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the green room , not ( landmark 2 ) ) )",
+    "raw": "F ( green_room & ~ landmark_2 )"
+  },
+  "until ( not ( the green room ) , landmark 2 )": {
+    "formula": "until ( not ( the green room ) , landmark 2 )",
+    "raw": "~ ( green_room ) U ( landmark_2 )"
+  },
+  "finally ( and ( the green room , finally ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the green room , finally ( landmark 3 ) ) )",
+    "raw": "F ( green_room & F ( landmark_3 ) )"
+  },
+  "and ( finally ( the green room ) , always ( landmark 3 ) )": {
+    "formula": "and ( finally ( the green room ) , always ( landmark 3 ) )",
+    "raw": "F ( green_room ) & G ( landmark_3 )"
+  },
+  "finally ( and ( the green room , not ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the green room , not ( landmark 3 ) ) )",
+    "raw": "F ( green_room & ~ landmark_3 )"
+  },
+  "until ( not ( the green room ) , landmark 3 )": {
+    "formula": "until ( not ( the green room ) , landmark 3 )",
+    "raw": "~ ( green_room ) U ( landmark_3 )"
+  },
+  "finally ( the orange room )": {
+    "formula": "finally ( the orange room )",
+    "raw": "F ( orange_room )"
+  },
+  "finally ( and ( the orange room , finally ( the blue room ) ) )": {
+    "formula": "finally ( and ( the orange room , finally ( the blue room ) ) )",
+    "raw": "F ( orange_room & F ( blue_room ) )"
+  },
+  "and ( finally ( the orange room ) , always ( the blue room ) )": {
+    "formula": "and ( finally ( the orange room ) , always ( the blue room ) )",
+    "raw": "F ( orange_room ) & G ( blue_room )"
+  },
+  "finally ( and ( the orange room , not ( the blue room ) ) )": {
+    "formula": "finally ( and ( the orange room , not ( the blue room ) ) )",
+    "raw": "F ( orange_room & ~ blue_room )"
+  },
+  "until ( not ( the orange room ) , the blue room )": {
+    "formula": "until ( not ( the orange room ) , the blue room )",
+    "raw": "~ ( orange_room ) U ( blue_room )"
+  },
+  "finally ( and ( the orange room , finally ( the green room ) ) )": {
+    "formula": "finally ( and ( the orange room , finally ( the green room ) ) )",
+    "raw": "F ( orange_room & F ( green_room ) )"
+  },
+  "and ( finally ( the orange room ) , always ( the green room ) )": {
+    "formula": "and ( finally ( the orange room ) , always ( the green room ) )",
+    "raw": "F ( orange_room ) & G ( green_room )"
+  },
+  "finally ( and ( the orange room , not ( the green room ) ) )": {
+    "formula": "finally ( and ( the orange room , not ( the green room ) ) )",
+    "raw": "F ( orange_room & ~ green_room )"
+  },
+  "until ( not ( the orange room ) , the green room )": {
+    "formula": "until ( not ( the orange room ) , the green room )",
+    "raw": "~ ( orange_room ) U ( green_room )"
+  },
+  "finally ( and ( the orange room , finally ( the purple room ) ) )": {
+    "formula": "finally ( and ( the orange room , finally ( the purple room ) ) )",
+    "raw": "F ( orange_room & F ( purple_room ) )"
+  },
+  "and ( finally ( the orange room ) , always ( the purple room ) )": {
+    "formula": "and ( finally ( the orange room ) , always ( the purple room ) )",
+    "raw": "F ( orange_room ) & G ( purple_room )"
+  },
+  "finally ( and ( the orange room , not ( the purple room ) ) )": {
+    "formula": "finally ( and ( the orange room , not ( the purple room ) ) )",
+    "raw": "F ( orange_room & ~ purple_room )"
+  },
+  "until ( not ( the orange room ) , the purple room )": {
+    "formula": "until ( not ( the orange room ) , the purple room )",
+    "raw": "~ ( orange_room ) U ( purple_room )"
+  },
+  "finally ( and ( the orange room , finally ( the red room ) ) )": {
+    "formula": "finally ( and ( the orange room , finally ( the red room ) ) )",
+    "raw": "F ( orange_room & F ( red_room ) )"
+  },
+  "and ( finally ( the orange room ) , always ( the red room ) )": {
+    "formula": "and ( finally ( the orange room ) , always ( the red room ) )",
+    "raw": "F ( orange_room ) & G ( red_room )"
+  },
+  "finally ( and ( the orange room , not ( the red room ) ) )": {
+    "formula": "finally ( and ( the orange room , not ( the red room ) ) )",
+    "raw": "F ( orange_room & ~ red_room )"
+  },
+  "until ( not ( the orange room ) , the red room )": {
+    "formula": "until ( not ( the orange room ) , the red room )",
+    "raw": "~ ( orange_room ) U ( red_room )"
+  },
+  "finally ( and ( the orange room , finally ( the yellow room ) ) )": {
+    "formula": "finally ( and ( the orange room , finally ( the yellow room ) ) )",
+    "raw": "F ( orange_room & F ( yellow_room ) )"
+  },
+  "and ( finally ( the orange room ) , always ( the yellow room ) )": {
+    "formula": "and ( finally ( the orange room ) , always ( the yellow room ) )",
+    "raw": "F ( orange_room ) & G ( yellow_room )"
+  },
+  "finally ( and ( the orange room , not ( the yellow room ) ) )": {
+    "formula": "finally ( and ( the orange room , not ( the yellow room ) ) )",
+    "raw": "F ( orange_room & ~ yellow_room )"
+  },
+  "until ( not ( the orange room ) , the yellow room )": {
+    "formula": "until ( not ( the orange room ) , the yellow room )",
+    "raw": "~ ( orange_room ) U ( yellow_room )"
+  },
+  "finally ( and ( the orange room , finally ( the first floor ) ) )": {
+    "formula": "finally ( and ( the orange room , finally ( the first floor ) ) )",
+    "raw": "F ( orange_room & F ( first_floor ) )"
+  },
+  "and ( finally ( the orange room ) , always ( the first floor ) )": {
+    "formula": "and ( finally ( the orange room ) , always ( the first floor ) )",
+    "raw": "F ( orange_room ) & G ( first_floor )"
+  },
+  "finally ( and ( the orange room , not ( the first floor ) ) )": {
+    "formula": "finally ( and ( the orange room , not ( the first floor ) ) )",
+    "raw": "F ( orange_room & ~ first_floor )"
+  },
+  "until ( not ( the orange room ) , the first floor )": {
+    "formula": "until ( not ( the orange room ) , the first floor )",
+    "raw": "~ ( orange_room ) U ( first_floor )"
+  },
+  "finally ( and ( the orange room , finally ( the second floor ) ) )": {
+    "formula": "finally ( and ( the orange room , finally ( the second floor ) ) )",
+    "raw": "F ( orange_room & F ( second_floor ) )"
+  },
+  "and ( finally ( the orange room ) , always ( the second floor ) )": {
+    "formula": "and ( finally ( the orange room ) , always ( the second floor ) )",
+    "raw": "F ( orange_room ) & G ( second_floor )"
+  },
+  "finally ( and ( the orange room , not ( the second floor ) ) )": {
+    "formula": "finally ( and ( the orange room , not ( the second floor ) ) )",
+    "raw": "F ( orange_room & ~ second_floor )"
+  },
+  "until ( not ( the orange room ) , the second floor )": {
+    "formula": "until ( not ( the orange room ) , the second floor )",
+    "raw": "~ ( orange_room ) U ( second_floor )"
+  },
+  "finally ( and ( the orange room , finally ( the third floor ) ) )": {
+    "formula": "finally ( and ( the orange room , finally ( the third floor ) ) )",
+    "raw": "F ( orange_room & F ( third_floor ) )"
+  },
+  "and ( finally ( the orange room ) , always ( the third floor ) )": {
+    "formula": "and ( finally ( the orange room ) , always ( the third floor ) )",
+    "raw": "F ( orange_room ) & G ( third_floor )"
+  },
+  "finally ( and ( the orange room , not ( the third floor ) ) )": {
+    "formula": "finally ( and ( the orange room , not ( the third floor ) ) )",
+    "raw": "F ( orange_room & ~ third_floor )"
+  },
+  "until ( not ( the orange room ) , the third floor )": {
+    "formula": "until ( not ( the orange room ) , the third floor )",
+    "raw": "~ ( orange_room ) U ( third_floor )"
+  },
+  "finally ( and ( the orange room , finally ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the orange room , finally ( landmark 1 ) ) )",
+    "raw": "F ( orange_room & F ( landmark_1 ) )"
+  },
+  "and ( finally ( the orange room ) , always ( landmark 1 ) )": {
+    "formula": "and ( finally ( the orange room ) , always ( landmark 1 ) )",
+    "raw": "F ( orange_room ) & G ( landmark_1 )"
+  },
+  "finally ( and ( the orange room , not ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the orange room , not ( landmark 1 ) ) )",
+    "raw": "F ( orange_room & ~ landmark_1 )"
+  },
+  "until ( not ( the orange room ) , landmark 1 )": {
+    "formula": "until ( not ( the orange room ) , landmark 1 )",
+    "raw": "~ ( orange_room ) U ( landmark_1 )"
+  },
+  "finally ( and ( the orange room , finally ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the orange room , finally ( landmark 2 ) ) )",
+    "raw": "F ( orange_room & F ( landmark_2 ) )"
+  },
+  "and ( finally ( the orange room ) , always ( landmark 2 ) )": {
+    "formula": "and ( finally ( the orange room ) , always ( landmark 2 ) )",
+    "raw": "F ( orange_room ) & G ( landmark_2 )"
+  },
+  "finally ( and ( the orange room , not ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the orange room , not ( landmark 2 ) ) )",
+    "raw": "F ( orange_room & ~ landmark_2 )"
+  },
+  "until ( not ( the orange room ) , landmark 2 )": {
+    "formula": "until ( not ( the orange room ) , landmark 2 )",
+    "raw": "~ ( orange_room ) U ( landmark_2 )"
+  },
+  "finally ( and ( the orange room , finally ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the orange room , finally ( landmark 3 ) ) )",
+    "raw": "F ( orange_room & F ( landmark_3 ) )"
+  },
+  "and ( finally ( the orange room ) , always ( landmark 3 ) )": {
+    "formula": "and ( finally ( the orange room ) , always ( landmark 3 ) )",
+    "raw": "F ( orange_room ) & G ( landmark_3 )"
+  },
+  "finally ( and ( the orange room , not ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the orange room , not ( landmark 3 ) ) )",
+    "raw": "F ( orange_room & ~ landmark_3 )"
+  },
+  "until ( not ( the orange room ) , landmark 3 )": {
+    "formula": "until ( not ( the orange room ) , landmark 3 )",
+    "raw": "~ ( orange_room ) U ( landmark_3 )"
+  },
+  "finally ( the purple room )": {
+    "formula": "finally ( the purple room )",
+    "raw": "F ( purple_room )"
+  },
+  "finally ( and ( the purple room , finally ( the blue room ) ) )": {
+    "formula": "finally ( and ( the purple room , finally ( the blue room ) ) )",
+    "raw": "F ( purple_room & F ( blue_room ) )"
+  },
+  "and ( finally ( the purple room ) , always ( the blue room ) )": {
+    "formula": "and ( finally ( the purple room ) , always ( the blue room ) )",
+    "raw": "F ( purple_room ) & G ( blue_room )"
+  },
+  "finally ( and ( the purple room , not ( the blue room ) ) )": {
+    "formula": "finally ( and ( the purple room , not ( the blue room ) ) )",
+    "raw": "F ( purple_room & ~ blue_room )"
+  },
+  "until ( not ( the purple room ) , the blue room )": {
+    "formula": "until ( not ( the purple room ) , the blue room )",
+    "raw": "~ ( purple_room ) U ( blue_room )"
+  },
+  "finally ( and ( the purple room , finally ( the green room ) ) )": {
+    "formula": "finally ( and ( the purple room , finally ( the green room ) ) )",
+    "raw": "F ( purple_room & F ( green_room ) )"
+  },
+  "and ( finally ( the purple room ) , always ( the green room ) )": {
+    "formula": "and ( finally ( the purple room ) , always ( the green room ) )",
+    "raw": "F ( purple_room ) & G ( green_room )"
+  },
+  "finally ( and ( the purple room , not ( the green room ) ) )": {
+    "formula": "finally ( and ( the purple room , not ( the green room ) ) )",
+    "raw": "F ( purple_room & ~ green_room )"
+  },
+  "until ( not ( the purple room ) , the green room )": {
+    "formula": "until ( not ( the purple room ) , the green room )",
+    "raw": "~ ( purple_room ) U ( green_room )"
+  },
+  "finally ( and ( the purple room , finally ( the orange room ) ) )": {
+    "formula": "finally ( and ( the purple room , finally ( the orange room ) ) )",
+    "raw": "F ( purple_room & F ( orange_room ) )"
+  },
+  "and ( finally ( the purple room ) , always ( the orange room ) )": {
+    "formula": "and ( finally ( the purple room ) , always ( the orange room ) )",
+    "raw": "F ( purple_room ) & G ( orange_room )"
+  },
+  "finally ( and ( the purple room , not ( the orange room ) ) )": {
+    "formula": "finally ( and ( the purple room , not ( the orange room ) ) )",
+    "raw": "F ( purple_room & ~ orange_room )"
+  },
+  "until ( not ( the purple room ) , the orange room )": {
+    "formula": "until ( not ( the purple room ) , the orange room )",
+    "raw": "~ ( purple_room ) U ( orange_room )"
+  },
+  "finally ( and ( the purple room , finally ( the red room ) ) )": {
+    "formula": "finally ( and ( the purple room , finally ( the red room ) ) )",
+    "raw": "F ( purple_room & F ( red_room ) )"
+  },
+  "and ( finally ( the purple room ) , always ( the red room ) )": {
+    "formula": "and ( finally ( the purple room ) , always ( the red room ) )",
+    "raw": "F ( purple_room ) & G ( red_room )"
+  },
+  "finally ( and ( the purple room , not ( the red room ) ) )": {
+    "formula": "finally ( and ( the purple room , not ( the red room ) ) )",
+    "raw": "F ( purple_room & ~ red_room )"
+  },
+  "until ( not ( the purple room ) , the red room )": {
+    "formula": "until ( not ( the purple room ) , the red room )",
+    "raw": "~ ( purple_room ) U ( red_room )"
+  },
+  "finally ( and ( the purple room , finally ( the yellow room ) ) )": {
+    "formula": "finally ( and ( the purple room , finally ( the yellow room ) ) )",
+    "raw": "F ( purple_room & F ( yellow_room ) )"
+  },
+  "and ( finally ( the purple room ) , always ( the yellow room ) )": {
+    "formula": "and ( finally ( the purple room ) , always ( the yellow room ) )",
+    "raw": "F ( purple_room ) & G ( yellow_room )"
+  },
+  "finally ( and ( the purple room , not ( the yellow room ) ) )": {
+    "formula": "finally ( and ( the purple room , not ( the yellow room ) ) )",
+    "raw": "F ( purple_room & ~ yellow_room )"
+  },
+  "until ( not ( the purple room ) , the yellow room )": {
+    "formula": "until ( not ( the purple room ) , the yellow room )",
+    "raw": "~ ( purple_room ) U ( yellow_room )"
+  },
+  "finally ( and ( the purple room , finally ( the first floor ) ) )": {
+    "formula": "finally ( and ( the purple room , finally ( the first floor ) ) )",
+    "raw": "F ( purple_room & F ( first_floor ) )"
+  },
+  "and ( finally ( the purple room ) , always ( the first floor ) )": {
+    "formula": "and ( finally ( the purple room ) , always ( the first floor ) )",
+    "raw": "F ( purple_room ) & G ( first_floor )"
+  },
+  "finally ( and ( the purple room , not ( the first floor ) ) )": {
+    "formula": "finally ( and ( the purple room , not ( the first floor ) ) )",
+    "raw": "F ( purple_room & ~ first_floor )"
+  },
+  "until ( not ( the purple room ) , the first floor )": {
+    "formula": "until ( not ( the purple room ) , the first floor )",
+    "raw": "~ ( purple_room ) U ( first_floor )"
+  },
+  "finally ( and ( the purple room , finally ( the second floor ) ) )": {
+    "formula": "finally ( and ( the purple room , finally ( the second floor ) ) )",
+    "raw": "F ( purple_room & F ( second_floor ) )"
+  },
+  "and ( finally ( the purple room ) , always ( the second floor ) )": {
+    "formula": "and ( finally ( the purple room ) , always ( the second floor ) )",
+    "raw": "F ( purple_room ) & G ( second_floor )"
+  },
+  "finally ( and ( the purple room , not ( the second floor ) ) )": {
+    "formula": "finally ( and ( the purple room , not ( the second floor ) ) )",
+    "raw": "F ( purple_room & ~ second_floor )"
+  },
+  "until ( not ( the purple room ) , the second floor )": {
+    "formula": "until ( not ( the purple room ) , the second floor )",
+    "raw": "~ ( purple_room ) U ( second_floor )"
+  },
+  "finally ( and ( the purple room , finally ( the third floor ) ) )": {
+    "formula": "finally ( and ( the purple room , finally ( the third floor ) ) )",
+    "raw": "F ( purple_room & F ( third_floor ) )"
+  },
+  "and ( finally ( the purple room ) , always ( the third floor ) )": {
+    "formula": "and ( finally ( the purple room ) , always ( the third floor ) )",
+    "raw": "F ( purple_room ) & G ( third_floor )"
+  },
+  "finally ( and ( the purple room , not ( the third floor ) ) )": {
+    "formula": "finally ( and ( the purple room , not ( the third floor ) ) )",
+    "raw": "F ( purple_room & ~ third_floor )"
+  },
+  "until ( not ( the purple room ) , the third floor )": {
+    "formula": "until ( not ( the purple room ) , the third floor )",
+    "raw": "~ ( purple_room ) U ( third_floor )"
+  },
+  "finally ( and ( the purple room , finally ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the purple room , finally ( landmark 1 ) ) )",
+    "raw": "F ( purple_room & F ( landmark_1 ) )"
+  },
+  "and ( finally ( the purple room ) , always ( landmark 1 ) )": {
+    "formula": "and ( finally ( the purple room ) , always ( landmark 1 ) )",
+    "raw": "F ( purple_room ) & G ( landmark_1 )"
+  },
+  "finally ( and ( the purple room , not ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the purple room , not ( landmark 1 ) ) )",
+    "raw": "F ( purple_room & ~ landmark_1 )"
+  },
+  "until ( not ( the purple room ) , landmark 1 )": {
+    "formula": "until ( not ( the purple room ) , landmark 1 )",
+    "raw": "~ ( purple_room ) U ( landmark_1 )"
+  },
+  "finally ( and ( the purple room , finally ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the purple room , finally ( landmark 2 ) ) )",
+    "raw": "F ( purple_room & F ( landmark_2 ) )"
+  },
+  "and ( finally ( the purple room ) , always ( landmark 2 ) )": {
+    "formula": "and ( finally ( the purple room ) , always ( landmark 2 ) )",
+    "raw": "F ( purple_room ) & G ( landmark_2 )"
+  },
+  "finally ( and ( the purple room , not ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the purple room , not ( landmark 2 ) ) )",
+    "raw": "F ( purple_room & ~ landmark_2 )"
+  },
+  "until ( not ( the purple room ) , landmark 2 )": {
+    "formula": "until ( not ( the purple room ) , landmark 2 )",
+    "raw": "~ ( purple_room ) U ( landmark_2 )"
+  },
+  "finally ( and ( the purple room , finally ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the purple room , finally ( landmark 3 ) ) )",
+    "raw": "F ( purple_room & F ( landmark_3 ) )"
+  },
+  "and ( finally ( the purple room ) , always ( landmark 3 ) )": {
+    "formula": "and ( finally ( the purple room ) , always ( landmark 3 ) )",
+    "raw": "F ( purple_room ) & G ( landmark_3 )"
+  },
+  "finally ( and ( the purple room , not ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the purple room , not ( landmark 3 ) ) )",
+    "raw": "F ( purple_room & ~ landmark_3 )"
+  },
+  "until ( not ( the purple room ) , landmark 3 )": {
+    "formula": "until ( not ( the purple room ) , landmark 3 )",
+    "raw": "~ ( purple_room ) U ( landmark_3 )"
+  },
+  "finally ( the red room )": {
+    "formula": "finally ( the red room )",
+    "raw": "F ( red_room )"
+  },
+  "finally ( and ( the red room , finally ( the blue room ) ) )": {
+    "formula": "finally ( and ( the red room , finally ( the blue room ) ) )",
+    "raw": "F ( red_room & F ( blue_room ) )"
+  },
+  "and ( finally ( the red room ) , always ( the blue room ) )": {
+    "formula": "and ( finally ( the red room ) , always ( the blue room ) )",
+    "raw": "F ( red_room ) & G ( blue_room )"
+  },
+  "finally ( and ( the red room , not ( the blue room ) ) )": {
+    "formula": "finally ( and ( the red room , not ( the blue room ) ) )",
+    "raw": "F ( red_room & ~ blue_room )"
+  },
+  "until ( not ( the red room ) , the blue room )": {
+    "formula": "until ( not ( the red room ) , the blue room )",
+    "raw": "~ ( red_room ) U ( blue_room )"
+  },
+  "finally ( and ( the red room , finally ( the green room ) ) )": {
+    "formula": "finally ( and ( the red room , finally ( the green room ) ) )",
+    "raw": "F ( red_room & F ( green_room ) )"
+  },
+  "and ( finally ( the red room ) , always ( the green room ) )": {
+    "formula": "and ( finally ( the red room ) , always ( the green room ) )",
+    "raw": "F ( red_room ) & G ( green_room )"
+  },
+  "finally ( and ( the red room , not ( the green room ) ) )": {
+    "formula": "finally ( and ( the red room , not ( the green room ) ) )",
+    "raw": "F ( red_room & ~ green_room )"
+  },
+  "until ( not ( the red room ) , the green room )": {
+    "formula": "until ( not ( the red room ) , the green room )",
+    "raw": "~ ( red_room ) U ( green_room )"
+  },
+  "finally ( and ( the red room , finally ( the orange room ) ) )": {
+    "formula": "finally ( and ( the red room , finally ( the orange room ) ) )",
+    "raw": "F ( red_room & F ( orange_room ) )"
+  },
+  "and ( finally ( the red room ) , always ( the orange room ) )": {
+    "formula": "and ( finally ( the red room ) , always ( the orange room ) )",
+    "raw": "F ( red_room ) & G ( orange_room )"
+  },
+  "finally ( and ( the red room , not ( the orange room ) ) )": {
+    "formula": "finally ( and ( the red room , not ( the orange room ) ) )",
+    "raw": "F ( red_room & ~ orange_room )"
+  },
+  "until ( not ( the red room ) , the orange room )": {
+    "formula": "until ( not ( the red room ) , the orange room )",
+    "raw": "~ ( red_room ) U ( orange_room )"
+  },
+  "finally ( and ( the red room , finally ( the purple room ) ) )": {
+    "formula": "finally ( and ( the red room , finally ( the purple room ) ) )",
+    "raw": "F ( red_room & F ( purple_room ) )"
+  },
+  "and ( finally ( the red room ) , always ( the purple room ) )": {
+    "formula": "and ( finally ( the red room ) , always ( the purple room ) )",
+    "raw": "F ( red_room ) & G ( purple_room )"
+  },
+  "finally ( and ( the red room , not ( the purple room ) ) )": {
+    "formula": "finally ( and ( the red room , not ( the purple room ) ) )",
+    "raw": "F ( red_room & ~ purple_room )"
+  },
+  "until ( not ( the red room ) , the purple room )": {
+    "formula": "until ( not ( the red room ) , the purple room )",
+    "raw": "~ ( red_room ) U ( purple_room )"
+  },
+  "finally ( and ( the red room , finally ( the yellow room ) ) )": {
+    "formula": "finally ( and ( the red room , finally ( the yellow room ) ) )",
+    "raw": "F ( red_room & F ( yellow_room ) )"
+  },
+  "and ( finally ( the red room ) , always ( the yellow room ) )": {
+    "formula": "and ( finally ( the red room ) , always ( the yellow room ) )",
+    "raw": "F ( red_room ) & G ( yellow_room )"
+  },
+  "finally ( and ( the red room , not ( the yellow room ) ) )": {
+    "formula": "finally ( and ( the red room , not ( the yellow room ) ) )",
+    "raw": "F ( red_room & ~ yellow_room )"
+  },
+  "until ( not ( the red room ) , the yellow room )": {
+    "formula": "until ( not ( the red room ) , the yellow room )",
+    "raw": "~ ( red_room ) U ( yellow_room )"
+  },
+  "finally ( and ( the red room , finally ( the first floor ) ) )": {
+    "formula": "finally ( and ( the red room , finally ( the first floor ) ) )",
+    "raw": "F ( red_room & F ( first_floor ) )"
+  },
+  "and ( finally ( the red room ) , always ( the first floor ) )": {
+    "formula": "and ( finally ( the red room ) , always ( the first floor ) )",
+    "raw": "F ( red_room ) & G ( first_floor )"
+  },
+  "finally ( and ( the red room , not ( the first floor ) ) )": {
+    "formula": "finally ( and ( the red room , not ( the first floor ) ) )",
+    "raw": "F ( red_room & ~ first_floor )"
+  },
+  "until ( not ( the red room ) , the first floor )": {
+    "formula": "until ( not ( the red room ) , the first floor )",
+    "raw": "~ ( red_room ) U ( first_floor )"
+  },
+  "finally ( and ( the red room , finally ( the second floor ) ) )": {
+    "formula": "finally ( and ( the red room , finally ( the second floor ) ) )",
+    "raw": "F ( red_room & F ( second_floor ) )"
+  },
+  "and ( finally ( the red room ) , always ( the second floor ) )": {
+    "formula": "and ( finally ( the red room ) , always ( the second floor ) )",
+    "raw": "F ( red_room ) & G ( second_floor )"
+  },
+  "finally ( and ( the red room , not ( the second floor ) ) )": {
+    "formula": "finally ( and ( the red room , not ( the second floor ) ) )",
+    "raw": "F ( red_room & ~ second_floor )"
+  },
+  "until ( not ( the red room ) , the second floor )": {
+    "formula": "until ( not ( the red room ) , the second floor )",
+    "raw": "~ ( red_room ) U ( second_floor )"
+  },
+  "finally ( and ( the red room , finally ( the third floor ) ) )": {
+    "formula": "finally ( and ( the red room , finally ( the third floor ) ) )",
+    "raw": "F ( red_room & F ( third_floor ) )"
+  },
+  "and ( finally ( the red room ) , always ( the third floor ) )": {
+    "formula": "and ( finally ( the red room ) , always ( the third floor ) )",
+    "raw": "F ( red_room ) & G ( third_floor )"
+  },
+  "finally ( and ( the red room , not ( the third floor ) ) )": {
+    "formula": "finally ( and ( the red room , not ( the third floor ) ) )",
+    "raw": "F ( red_room & ~ third_floor )"
+  },
+  "until ( not ( the red room ) , the third floor )": {
+    "formula": "until ( not ( the red room ) , the third floor )",
+    "raw": "~ ( red_room ) U ( third_floor )"
+  },
+  "finally ( and ( the red room , finally ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the red room , finally ( landmark 1 ) ) )",
+    "raw": "F ( red_room & F ( landmark_1 ) )"
+  },
+  "and ( finally ( the red room ) , always ( landmark 1 ) )": {
+    "formula": "and ( finally ( the red room ) , always ( landmark 1 ) )",
+    "raw": "F ( red_room ) & G ( landmark_1 )"
+  },
+  "finally ( and ( the red room , not ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the red room , not ( landmark 1 ) ) )",
+    "raw": "F ( red_room & ~ landmark_1 )"
+  },
+  "until ( not ( the red room ) , landmark 1 )": {
+    "formula": "until ( not ( the red room ) , landmark 1 )",
+    "raw": "~ ( red_room ) U ( landmark_1 )"
+  },
+  "finally ( and ( the red room , finally ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the red room , finally ( landmark 2 ) ) )",
+    "raw": "F ( red_room & F ( landmark_2 ) )"
+  },
+  "and ( finally ( the red room ) , always ( landmark 2 ) )": {
+    "formula": "and ( finally ( the red room ) , always ( landmark 2 ) )",
+    "raw": "F ( red_room ) & G ( landmark_2 )"
+  },
+  "finally ( and ( the red room , not ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the red room , not ( landmark 2 ) ) )",
+    "raw": "F ( red_room & ~ landmark_2 )"
+  },
+  "until ( not ( the red room ) , landmark 2 )": {
+    "formula": "until ( not ( the red room ) , landmark 2 )",
+    "raw": "~ ( red_room ) U ( landmark_2 )"
+  },
+  "finally ( and ( the red room , finally ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the red room , finally ( landmark 3 ) ) )",
+    "raw": "F ( red_room & F ( landmark_3 ) )"
+  },
+  "and ( finally ( the red room ) , always ( landmark 3 ) )": {
+    "formula": "and ( finally ( the red room ) , always ( landmark 3 ) )",
+    "raw": "F ( red_room ) & G ( landmark_3 )"
+  },
+  "finally ( and ( the red room , not ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the red room , not ( landmark 3 ) ) )",
+    "raw": "F ( red_room & ~ landmark_3 )"
+  },
+  "until ( not ( the red room ) , landmark 3 )": {
+    "formula": "until ( not ( the red room ) , landmark 3 )",
+    "raw": "~ ( red_room ) U ( landmark_3 )"
+  },
+  "finally ( the yellow room )": {
+    "formula": "finally ( the yellow room )",
+    "raw": "F ( yellow_room )"
+  },
+  "finally ( and ( the yellow room , finally ( the blue room ) ) )": {
+    "formula": "finally ( and ( the yellow room , finally ( the blue room ) ) )",
+    "raw": "F ( yellow_room & F ( blue_room ) )"
+  },
+  "and ( finally ( the yellow room ) , always ( the blue room ) )": {
+    "formula": "and ( finally ( the yellow room ) , always ( the blue room ) )",
+    "raw": "F ( yellow_room ) & G ( blue_room )"
+  },
+  "finally ( and ( the yellow room , not ( the blue room ) ) )": {
+    "formula": "finally ( and ( the yellow room , not ( the blue room ) ) )",
+    "raw": "F ( yellow_room & ~ blue_room )"
+  },
+  "until ( not ( the yellow room ) , the blue room )": {
+    "formula": "until ( not ( the yellow room ) , the blue room )",
+    "raw": "~ ( yellow_room ) U ( blue_room )"
+  },
+  "finally ( and ( the yellow room , finally ( the green room ) ) )": {
+    "formula": "finally ( and ( the yellow room , finally ( the green room ) ) )",
+    "raw": "F ( yellow_room & F ( green_room ) )"
+  },
+  "and ( finally ( the yellow room ) , always ( the green room ) )": {
+    "formula": "and ( finally ( the yellow room ) , always ( the green room ) )",
+    "raw": "F ( yellow_room ) & G ( green_room )"
+  },
+  "finally ( and ( the yellow room , not ( the green room ) ) )": {
+    "formula": "finally ( and ( the yellow room , not ( the green room ) ) )",
+    "raw": "F ( yellow_room & ~ green_room )"
+  },
+  "until ( not ( the yellow room ) , the green room )": {
+    "formula": "until ( not ( the yellow room ) , the green room )",
+    "raw": "~ ( yellow_room ) U ( green_room )"
+  },
+  "finally ( and ( the yellow room , finally ( the orange room ) ) )": {
+    "formula": "finally ( and ( the yellow room , finally ( the orange room ) ) )",
+    "raw": "F ( yellow_room & F ( orange_room ) )"
+  },
+  "and ( finally ( the yellow room ) , always ( the orange room ) )": {
+    "formula": "and ( finally ( the yellow room ) , always ( the orange room ) )",
+    "raw": "F ( yellow_room ) & G ( orange_room )"
+  },
+  "finally ( and ( the yellow room , not ( the orange room ) ) )": {
+    "formula": "finally ( and ( the yellow room , not ( the orange room ) ) )",
+    "raw": "F ( yellow_room & ~ orange_room )"
+  },
+  "until ( not ( the yellow room ) , the orange room )": {
+    "formula": "until ( not ( the yellow room ) , the orange room )",
+    "raw": "~ ( yellow_room ) U ( orange_room )"
+  },
+  "finally ( and ( the yellow room , finally ( the purple room ) ) )": {
+    "formula": "finally ( and ( the yellow room , finally ( the purple room ) ) )",
+    "raw": "F ( yellow_room & F ( purple_room ) )"
+  },
+  "and ( finally ( the yellow room ) , always ( the purple room ) )": {
+    "formula": "and ( finally ( the yellow room ) , always ( the purple room ) )",
+    "raw": "F ( yellow_room ) & G ( purple_room )"
+  },
+  "finally ( and ( the yellow room , not ( the purple room ) ) )": {
+    "formula": "finally ( and ( the yellow room , not ( the purple room ) ) )",
+    "raw": "F ( yellow_room & ~ purple_room )"
+  },
+  "until ( not ( the yellow room ) , the purple room )": {
+    "formula": "until ( not ( the yellow room ) , the purple room )",
+    "raw": "~ ( yellow_room ) U ( purple_room )"
+  },
+  "finally ( and ( the yellow room , finally ( the red room ) ) )": {
+    "formula": "finally ( and ( the yellow room , finally ( the red room ) ) )",
+    "raw": "F ( yellow_room & F ( red_room ) )"
+  },
+  "and ( finally ( the yellow room ) , always ( the red room ) )": {
+    "formula": "and ( finally ( the yellow room ) , always ( the red room ) )",
+    "raw": "F ( yellow_room ) & G ( red_room )"
+  },
+  "finally ( and ( the yellow room , not ( the red room ) ) )": {
+    "formula": "finally ( and ( the yellow room , not ( the red room ) ) )",
+    "raw": "F ( yellow_room & ~ red_room )"
+  },
+  "until ( not ( the yellow room ) , the red room )": {
+    "formula": "until ( not ( the yellow room ) , the red room )",
+    "raw": "~ ( yellow_room ) U ( red_room )"
+  },
+  "finally ( and ( the yellow room , finally ( the first floor ) ) )": {
+    "formula": "finally ( and ( the yellow room , finally ( the first floor ) ) )",
+    "raw": "F ( yellow_room & F ( first_floor ) )"
+  },
+  "and ( finally ( the yellow room ) , always ( the first floor ) )": {
+    "formula": "and ( finally ( the yellow room ) , always ( the first floor ) )",
+    "raw": "F ( yellow_room ) & G ( first_floor )"
+  },
+  "finally ( and ( the yellow room , not ( the first floor ) ) )": {
+    "formula": "finally ( and ( the yellow room , not ( the first floor ) ) )",
+    "raw": "F ( yellow_room & ~ first_floor )"
+  },
+  "until ( not ( the yellow room ) , the first floor )": {
+    "formula": "until ( not ( the yellow room ) , the first floor )",
+    "raw": "~ ( yellow_room ) U ( first_floor )"
+  },
+  "finally ( and ( the yellow room , finally ( the second floor ) ) )": {
+    "formula": "finally ( and ( the yellow room , finally ( the second floor ) ) )",
+    "raw": "F ( yellow_room & F ( second_floor ) )"
+  },
+  "and ( finally ( the yellow room ) , always ( the second floor ) )": {
+    "formula": "and ( finally ( the yellow room ) , always ( the second floor ) )",
+    "raw": "F ( yellow_room ) & G ( second_floor )"
+  },
+  "finally ( and ( the yellow room , not ( the second floor ) ) )": {
+    "formula": "finally ( and ( the yellow room , not ( the second floor ) ) )",
+    "raw": "F ( yellow_room & ~ second_floor )"
+  },
+  "until ( not ( the yellow room ) , the second floor )": {
+    "formula": "until ( not ( the yellow room ) , the second floor )",
+    "raw": "~ ( yellow_room ) U ( second_floor )"
+  },
+  "finally ( and ( the yellow room , finally ( the third floor ) ) )": {
+    "formula": "finally ( and ( the yellow room , finally ( the third floor ) ) )",
+    "raw": "F ( yellow_room & F ( third_floor ) )"
+  },
+  "and ( finally ( the yellow room ) , always ( the third floor ) )": {
+    "formula": "and ( finally ( the yellow room ) , always ( the third floor ) )",
+    "raw": "F ( yellow_room ) & G ( third_floor )"
+  },
+  "finally ( and ( the yellow room , not ( the third floor ) ) )": {
+    "formula": "finally ( and ( the yellow room , not ( the third floor ) ) )",
+    "raw": "F ( yellow_room & ~ third_floor )"
+  },
+  "until ( not ( the yellow room ) , the third floor )": {
+    "formula": "until ( not ( the yellow room ) , the third floor )",
+    "raw": "~ ( yellow_room ) U ( third_floor )"
+  },
+  "finally ( and ( the yellow room , finally ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the yellow room , finally ( landmark 1 ) ) )",
+    "raw": "F ( yellow_room & F ( landmark_1 ) )"
+  },
+  "and ( finally ( the yellow room ) , always ( landmark 1 ) )": {
+    "formula": "and ( finally ( the yellow room ) , always ( landmark 1 ) )",
+    "raw": "F ( yellow_room ) & G ( landmark_1 )"
+  },
+  "finally ( and ( the yellow room , not ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the yellow room , not ( landmark 1 ) ) )",
+    "raw": "F ( yellow_room & ~ landmark_1 )"
+  },
+  "until ( not ( the yellow room ) , landmark 1 )": {
+    "formula": "until ( not ( the yellow room ) , landmark 1 )",
+    "raw": "~ ( yellow_room ) U ( landmark_1 )"
+  },
+  "finally ( and ( the yellow room , finally ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the yellow room , finally ( landmark 2 ) ) )",
+    "raw": "F ( yellow_room & F ( landmark_2 ) )"
+  },
+  "and ( finally ( the yellow room ) , always ( landmark 2 ) )": {
+    "formula": "and ( finally ( the yellow room ) , always ( landmark 2 ) )",
+    "raw": "F ( yellow_room ) & G ( landmark_2 )"
+  },
+  "finally ( and ( the yellow room , not ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the yellow room , not ( landmark 2 ) ) )",
+    "raw": "F ( yellow_room & ~ landmark_2 )"
+  },
+  "until ( not ( the yellow room ) , landmark 2 )": {
+    "formula": "until ( not ( the yellow room ) , landmark 2 )",
+    "raw": "~ ( yellow_room ) U ( landmark_2 )"
+  },
+  "finally ( and ( the yellow room , finally ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the yellow room , finally ( landmark 3 ) ) )",
+    "raw": "F ( yellow_room & F ( landmark_3 ) )"
+  },
+  "and ( finally ( the yellow room ) , always ( landmark 3 ) )": {
+    "formula": "and ( finally ( the yellow room ) , always ( landmark 3 ) )",
+    "raw": "F ( yellow_room ) & G ( landmark_3 )"
+  },
+  "finally ( and ( the yellow room , not ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the yellow room , not ( landmark 3 ) ) )",
+    "raw": "F ( yellow_room & ~ landmark_3 )"
+  },
+  "until ( not ( the yellow room ) , landmark 3 )": {
+    "formula": "until ( not ( the yellow room ) , landmark 3 )",
+    "raw": "~ ( yellow_room ) U ( landmark_3 )"
+  },
+  "finally ( the first floor )": {
+    "formula": "finally ( the first floor )",
+    "raw": "F ( first_floor )"
+  },
+  "finally ( and ( the first floor , finally ( the blue room ) ) )": {
+    "formula": "finally ( and ( the first floor , finally ( the blue room ) ) )",
+    "raw": "F ( first_floor & F ( blue_room ) )"
+  },
+  "and ( finally ( the first floor ) , always ( the blue room ) )": {
+    "formula": "and ( finally ( the first floor ) , always ( the blue room ) )",
+    "raw": "F ( first_floor ) & G ( blue_room )"
+  },
+  "finally ( and ( the first floor , not ( the blue room ) ) )": {
+    "formula": "finally ( and ( the first floor , not ( the blue room ) ) )",
+    "raw": "F ( first_floor & ~ blue_room )"
+  },
+  "until ( not ( the first floor ) , the blue room )": {
+    "formula": "until ( not ( the first floor ) , the blue room )",
+    "raw": "~ ( first_floor ) U ( blue_room )"
+  },
+  "finally ( and ( the first floor , finally ( the green room ) ) )": {
+    "formula": "finally ( and ( the first floor , finally ( the green room ) ) )",
+    "raw": "F ( first_floor & F ( green_room ) )"
+  },
+  "and ( finally ( the first floor ) , always ( the green room ) )": {
+    "formula": "and ( finally ( the first floor ) , always ( the green room ) )",
+    "raw": "F ( first_floor ) & G ( green_room )"
+  },
+  "finally ( and ( the first floor , not ( the green room ) ) )": {
+    "formula": "finally ( and ( the first floor , not ( the green room ) ) )",
+    "raw": "F ( first_floor & ~ green_room )"
+  },
+  "until ( not ( the first floor ) , the green room )": {
+    "formula": "until ( not ( the first floor ) , the green room )",
+    "raw": "~ ( first_floor ) U ( green_room )"
+  },
+  "finally ( and ( the first floor , finally ( the orange room ) ) )": {
+    "formula": "finally ( and ( the first floor , finally ( the orange room ) ) )",
+    "raw": "F ( first_floor & F ( orange_room ) )"
+  },
+  "and ( finally ( the first floor ) , always ( the orange room ) )": {
+    "formula": "and ( finally ( the first floor ) , always ( the orange room ) )",
+    "raw": "F ( first_floor ) & G ( orange_room )"
+  },
+  "finally ( and ( the first floor , not ( the orange room ) ) )": {
+    "formula": "finally ( and ( the first floor , not ( the orange room ) ) )",
+    "raw": "F ( first_floor & ~ orange_room )"
+  },
+  "until ( not ( the first floor ) , the orange room )": {
+    "formula": "until ( not ( the first floor ) , the orange room )",
+    "raw": "~ ( first_floor ) U ( orange_room )"
+  },
+  "finally ( and ( the first floor , finally ( the purple room ) ) )": {
+    "formula": "finally ( and ( the first floor , finally ( the purple room ) ) )",
+    "raw": "F ( first_floor & F ( purple_room ) )"
+  },
+  "and ( finally ( the first floor ) , always ( the purple room ) )": {
+    "formula": "and ( finally ( the first floor ) , always ( the purple room ) )",
+    "raw": "F ( first_floor ) & G ( purple_room )"
+  },
+  "finally ( and ( the first floor , not ( the purple room ) ) )": {
+    "formula": "finally ( and ( the first floor , not ( the purple room ) ) )",
+    "raw": "F ( first_floor & ~ purple_room )"
+  },
+  "until ( not ( the first floor ) , the purple room )": {
+    "formula": "until ( not ( the first floor ) , the purple room )",
+    "raw": "~ ( first_floor ) U ( purple_room )"
+  },
+  "finally ( and ( the first floor , finally ( the red room ) ) )": {
+    "formula": "finally ( and ( the first floor , finally ( the red room ) ) )",
+    "raw": "F ( first_floor & F ( red_room ) )"
+  },
+  "and ( finally ( the first floor ) , always ( the red room ) )": {
+    "formula": "and ( finally ( the first floor ) , always ( the red room ) )",
+    "raw": "F ( first_floor ) & G ( red_room )"
+  },
+  "finally ( and ( the first floor , not ( the red room ) ) )": {
+    "formula": "finally ( and ( the first floor , not ( the red room ) ) )",
+    "raw": "F ( first_floor & ~ red_room )"
+  },
+  "until ( not ( the first floor ) , the red room )": {
+    "formula": "until ( not ( the first floor ) , the red room )",
+    "raw": "~ ( first_floor ) U ( red_room )"
+  },
+  "finally ( and ( the first floor , finally ( the yellow room ) ) )": {
+    "formula": "finally ( and ( the first floor , finally ( the yellow room ) ) )",
+    "raw": "F ( first_floor & F ( yellow_room ) )"
+  },
+  "and ( finally ( the first floor ) , always ( the yellow room ) )": {
+    "formula": "and ( finally ( the first floor ) , always ( the yellow room ) )",
+    "raw": "F ( first_floor ) & G ( yellow_room )"
+  },
+  "finally ( and ( the first floor , not ( the yellow room ) ) )": {
+    "formula": "finally ( and ( the first floor , not ( the yellow room ) ) )",
+    "raw": "F ( first_floor & ~ yellow_room )"
+  },
+  "until ( not ( the first floor ) , the yellow room )": {
+    "formula": "until ( not ( the first floor ) , the yellow room )",
+    "raw": "~ ( first_floor ) U ( yellow_room )"
+  },
+  "finally ( and ( the first floor , finally ( the second floor ) ) )": {
+    "formula": "finally ( and ( the first floor , finally ( the second floor ) ) )",
+    "raw": "F ( first_floor & F ( second_floor ) )"
+  },
+  "and ( finally ( the first floor ) , always ( the second floor ) )": {
+    "formula": "and ( finally ( the first floor ) , always ( the second floor ) )",
+    "raw": "F ( first_floor ) & G ( second_floor )"
+  },
+  "finally ( and ( the first floor , not ( the second floor ) ) )": {
+    "formula": "finally ( and ( the first floor , not ( the second floor ) ) )",
+    "raw": "F ( first_floor & ~ second_floor )"
+  },
+  "until ( not ( the first floor ) , the second floor )": {
+    "formula": "until ( not ( the first floor ) , the second floor )",
+    "raw": "~ ( first_floor ) U ( second_floor )"
+  },
+  "finally ( and ( the first floor , finally ( the third floor ) ) )": {
+    "formula": "finally ( and ( the first floor , finally ( the third floor ) ) )",
+    "raw": "F ( first_floor & F ( third_floor ) )"
+  },
+  "and ( finally ( the first floor ) , always ( the third floor ) )": {
+    "formula": "and ( finally ( the first floor ) , always ( the third floor ) )",
+    "raw": "F ( first_floor ) & G ( third_floor )"
+  },
+  "finally ( and ( the first floor , not ( the third floor ) ) )": {
+    "formula": "finally ( and ( the first floor , not ( the third floor ) ) )",
+    "raw": "F ( first_floor & ~ third_floor )"
+  },
+  "until ( not ( the first floor ) , the third floor )": {
+    "formula": "until ( not ( the first floor ) , the third floor )",
+    "raw": "~ ( first_floor ) U ( third_floor )"
+  },
+  "finally ( and ( the first floor , finally ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the first floor , finally ( landmark 1 ) ) )",
+    "raw": "F ( first_floor & F ( landmark_1 ) )"
+  },
+  "and ( finally ( the first floor ) , always ( landmark 1 ) )": {
+    "formula": "and ( finally ( the first floor ) , always ( landmark 1 ) )",
+    "raw": "F ( first_floor ) & G ( landmark_1 )"
+  },
+  "finally ( and ( the first floor , not ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the first floor , not ( landmark 1 ) ) )",
+    "raw": "F ( first_floor & ~ landmark_1 )"
+  },
+  "until ( not ( the first floor ) , landmark 1 )": {
+    "formula": "until ( not ( the first floor ) , landmark 1 )",
+    "raw": "~ ( first_floor ) U ( landmark_1 )"
+  },
+  "finally ( and ( the first floor , finally ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the first floor , finally ( landmark 2 ) ) )",
+    "raw": "F ( first_floor & F ( landmark_2 ) )"
+  },
+  "and ( finally ( the first floor ) , always ( landmark 2 ) )": {
+    "formula": "and ( finally ( the first floor ) , always ( landmark 2 ) )",
+    "raw": "F ( first_floor ) & G ( landmark_2 )"
+  },
+  "finally ( and ( the first floor , not ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the first floor , not ( landmark 2 ) ) )",
+    "raw": "F ( first_floor & ~ landmark_2 )"
+  },
+  "until ( not ( the first floor ) , landmark 2 )": {
+    "formula": "until ( not ( the first floor ) , landmark 2 )",
+    "raw": "~ ( first_floor ) U ( landmark_2 )"
+  },
+  "finally ( and ( the first floor , finally ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the first floor , finally ( landmark 3 ) ) )",
+    "raw": "F ( first_floor & F ( landmark_3 ) )"
+  },
+  "and ( finally ( the first floor ) , always ( landmark 3 ) )": {
+    "formula": "and ( finally ( the first floor ) , always ( landmark 3 ) )",
+    "raw": "F ( first_floor ) & G ( landmark_3 )"
+  },
+  "finally ( and ( the first floor , not ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the first floor , not ( landmark 3 ) ) )",
+    "raw": "F ( first_floor & ~ landmark_3 )"
+  },
+  "until ( not ( the first floor ) , landmark 3 )": {
+    "formula": "until ( not ( the first floor ) , landmark 3 )",
+    "raw": "~ ( first_floor ) U ( landmark_3 )"
+  },
+  "finally ( the second floor )": {
+    "formula": "finally ( the second floor )",
+    "raw": "F ( second_floor )"
+  },
+  "finally ( and ( the second floor , finally ( the blue room ) ) )": {
+    "formula": "finally ( and ( the second floor , finally ( the blue room ) ) )",
+    "raw": "F ( second_floor & F ( blue_room ) )"
+  },
+  "and ( finally ( the second floor ) , always ( the blue room ) )": {
+    "formula": "and ( finally ( the second floor ) , always ( the blue room ) )",
+    "raw": "F ( second_floor ) & G ( blue_room )"
+  },
+  "finally ( and ( the second floor , not ( the blue room ) ) )": {
+    "formula": "finally ( and ( the second floor , not ( the blue room ) ) )",
+    "raw": "F ( second_floor & ~ blue_room )"
+  },
+  "until ( not ( the second floor ) , the blue room )": {
+    "formula": "until ( not ( the second floor ) , the blue room )",
+    "raw": "~ ( second_floor ) U ( blue_room )"
+  },
+  "finally ( and ( the second floor , finally ( the green room ) ) )": {
+    "formula": "finally ( and ( the second floor , finally ( the green room ) ) )",
+    "raw": "F ( second_floor & F ( green_room ) )"
+  },
+  "and ( finally ( the second floor ) , always ( the green room ) )": {
+    "formula": "and ( finally ( the second floor ) , always ( the green room ) )",
+    "raw": "F ( second_floor ) & G ( green_room )"
+  },
+  "finally ( and ( the second floor , not ( the green room ) ) )": {
+    "formula": "finally ( and ( the second floor , not ( the green room ) ) )",
+    "raw": "F ( second_floor & ~ green_room )"
+  },
+  "until ( not ( the second floor ) , the green room )": {
+    "formula": "until ( not ( the second floor ) , the green room )",
+    "raw": "~ ( second_floor ) U ( green_room )"
+  },
+  "finally ( and ( the second floor , finally ( the orange room ) ) )": {
+    "formula": "finally ( and ( the second floor , finally ( the orange room ) ) )",
+    "raw": "F ( second_floor & F ( orange_room ) )"
+  },
+  "and ( finally ( the second floor ) , always ( the orange room ) )": {
+    "formula": "and ( finally ( the second floor ) , always ( the orange room ) )",
+    "raw": "F ( second_floor ) & G ( orange_room )"
+  },
+  "finally ( and ( the second floor , not ( the orange room ) ) )": {
+    "formula": "finally ( and ( the second floor , not ( the orange room ) ) )",
+    "raw": "F ( second_floor & ~ orange_room )"
+  },
+  "until ( not ( the second floor ) , the orange room )": {
+    "formula": "until ( not ( the second floor ) , the orange room )",
+    "raw": "~ ( second_floor ) U ( orange_room )"
+  },
+  "finally ( and ( the second floor , finally ( the purple room ) ) )": {
+    "formula": "finally ( and ( the second floor , finally ( the purple room ) ) )",
+    "raw": "F ( second_floor & F ( purple_room ) )"
+  },
+  "and ( finally ( the second floor ) , always ( the purple room ) )": {
+    "formula": "and ( finally ( the second floor ) , always ( the purple room ) )",
+    "raw": "F ( second_floor ) & G ( purple_room )"
+  },
+  "finally ( and ( the second floor , not ( the purple room ) ) )": {
+    "formula": "finally ( and ( the second floor , not ( the purple room ) ) )",
+    "raw": "F ( second_floor & ~ purple_room )"
+  },
+  "until ( not ( the second floor ) , the purple room )": {
+    "formula": "until ( not ( the second floor ) , the purple room )",
+    "raw": "~ ( second_floor ) U ( purple_room )"
+  },
+  "finally ( and ( the second floor , finally ( the red room ) ) )": {
+    "formula": "finally ( and ( the second floor , finally ( the red room ) ) )",
+    "raw": "F ( second_floor & F ( red_room ) )"
+  },
+  "and ( finally ( the second floor ) , always ( the red room ) )": {
+    "formula": "and ( finally ( the second floor ) , always ( the red room ) )",
+    "raw": "F ( second_floor ) & G ( red_room )"
+  },
+  "finally ( and ( the second floor , not ( the red room ) ) )": {
+    "formula": "finally ( and ( the second floor , not ( the red room ) ) )",
+    "raw": "F ( second_floor & ~ red_room )"
+  },
+  "until ( not ( the second floor ) , the red room )": {
+    "formula": "until ( not ( the second floor ) , the red room )",
+    "raw": "~ ( second_floor ) U ( red_room )"
+  },
+  "finally ( and ( the second floor , finally ( the yellow room ) ) )": {
+    "formula": "finally ( and ( the second floor , finally ( the yellow room ) ) )",
+    "raw": "F ( second_floor & F ( yellow_room ) )"
+  },
+  "and ( finally ( the second floor ) , always ( the yellow room ) )": {
+    "formula": "and ( finally ( the second floor ) , always ( the yellow room ) )",
+    "raw": "F ( second_floor ) & G ( yellow_room )"
+  },
+  "finally ( and ( the second floor , not ( the yellow room ) ) )": {
+    "formula": "finally ( and ( the second floor , not ( the yellow room ) ) )",
+    "raw": "F ( second_floor & ~ yellow_room )"
+  },
+  "until ( not ( the second floor ) , the yellow room )": {
+    "formula": "until ( not ( the second floor ) , the yellow room )",
+    "raw": "~ ( second_floor ) U ( yellow_room )"
+  },
+  "finally ( and ( the second floor , finally ( the first floor ) ) )": {
+    "formula": "finally ( and ( the second floor , finally ( the first floor ) ) )",
+    "raw": "F ( second_floor & F ( first_floor ) )"
+  },
+  "and ( finally ( the second floor ) , always ( the first floor ) )": {
+    "formula": "and ( finally ( the second floor ) , always ( the first floor ) )",
+    "raw": "F ( second_floor ) & G ( first_floor )"
+  },
+  "finally ( and ( the second floor , not ( the first floor ) ) )": {
+    "formula": "finally ( and ( the second floor , not ( the first floor ) ) )",
+    "raw": "F ( second_floor & ~ first_floor )"
+  },
+  "until ( not ( the second floor ) , the first floor )": {
+    "formula": "until ( not ( the second floor ) , the first floor )",
+    "raw": "~ ( second_floor ) U ( first_floor )"
+  },
+  "finally ( and ( the second floor , finally ( the third floor ) ) )": {
+    "formula": "finally ( and ( the second floor , finally ( the third floor ) ) )",
+    "raw": "F ( second_floor & F ( third_floor ) )"
+  },
+  "and ( finally ( the second floor ) , always ( the third floor ) )": {
+    "formula": "and ( finally ( the second floor ) , always ( the third floor ) )",
+    "raw": "F ( second_floor ) & G ( third_floor )"
+  },
+  "finally ( and ( the second floor , not ( the third floor ) ) )": {
+    "formula": "finally ( and ( the second floor , not ( the third floor ) ) )",
+    "raw": "F ( second_floor & ~ third_floor )"
+  },
+  "until ( not ( the second floor ) , the third floor )": {
+    "formula": "until ( not ( the second floor ) , the third floor )",
+    "raw": "~ ( second_floor ) U ( third_floor )"
+  },
+  "finally ( and ( the second floor , finally ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the second floor , finally ( landmark 1 ) ) )",
+    "raw": "F ( second_floor & F ( landmark_1 ) )"
+  },
+  "and ( finally ( the second floor ) , always ( landmark 1 ) )": {
+    "formula": "and ( finally ( the second floor ) , always ( landmark 1 ) )",
+    "raw": "F ( second_floor ) & G ( landmark_1 )"
+  },
+  "finally ( and ( the second floor , not ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the second floor , not ( landmark 1 ) ) )",
+    "raw": "F ( second_floor & ~ landmark_1 )"
+  },
+  "until ( not ( the second floor ) , landmark 1 )": {
+    "formula": "until ( not ( the second floor ) , landmark 1 )",
+    "raw": "~ ( second_floor ) U ( landmark_1 )"
+  },
+  "finally ( and ( the second floor , finally ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the second floor , finally ( landmark 2 ) ) )",
+    "raw": "F ( second_floor & F ( landmark_2 ) )"
+  },
+  "and ( finally ( the second floor ) , always ( landmark 2 ) )": {
+    "formula": "and ( finally ( the second floor ) , always ( landmark 2 ) )",
+    "raw": "F ( second_floor ) & G ( landmark_2 )"
+  },
+  "finally ( and ( the second floor , not ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the second floor , not ( landmark 2 ) ) )",
+    "raw": "F ( second_floor & ~ landmark_2 )"
+  },
+  "until ( not ( the second floor ) , landmark 2 )": {
+    "formula": "until ( not ( the second floor ) , landmark 2 )",
+    "raw": "~ ( second_floor ) U ( landmark_2 )"
+  },
+  "finally ( and ( the second floor , finally ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the second floor , finally ( landmark 3 ) ) )",
+    "raw": "F ( second_floor & F ( landmark_3 ) )"
+  },
+  "and ( finally ( the second floor ) , always ( landmark 3 ) )": {
+    "formula": "and ( finally ( the second floor ) , always ( landmark 3 ) )",
+    "raw": "F ( second_floor ) & G ( landmark_3 )"
+  },
+  "finally ( and ( the second floor , not ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the second floor , not ( landmark 3 ) ) )",
+    "raw": "F ( second_floor & ~ landmark_3 )"
+  },
+  "until ( not ( the second floor ) , landmark 3 )": {
+    "formula": "until ( not ( the second floor ) , landmark 3 )",
+    "raw": "~ ( second_floor ) U ( landmark_3 )"
+  },
+  "finally ( the third floor )": {
+    "formula": "finally ( the third floor )",
+    "raw": "F ( third_floor )"
+  },
+  "finally ( and ( the third floor , finally ( the blue room ) ) )": {
+    "formula": "finally ( and ( the third floor , finally ( the blue room ) ) )",
+    "raw": "F ( third_floor & F ( blue_room ) )"
+  },
+  "and ( finally ( the third floor ) , always ( the blue room ) )": {
+    "formula": "and ( finally ( the third floor ) , always ( the blue room ) )",
+    "raw": "F ( third_floor ) & G ( blue_room )"
+  },
+  "finally ( and ( the third floor , not ( the blue room ) ) )": {
+    "formula": "finally ( and ( the third floor , not ( the blue room ) ) )",
+    "raw": "F ( third_floor & ~ blue_room )"
+  },
+  "until ( not ( the third floor ) , the blue room )": {
+    "formula": "until ( not ( the third floor ) , the blue room )",
+    "raw": "~ ( third_floor ) U ( blue_room )"
+  },
+  "finally ( and ( the third floor , finally ( the green room ) ) )": {
+    "formula": "finally ( and ( the third floor , finally ( the green room ) ) )",
+    "raw": "F ( third_floor & F ( green_room ) )"
+  },
+  "and ( finally ( the third floor ) , always ( the green room ) )": {
+    "formula": "and ( finally ( the third floor ) , always ( the green room ) )",
+    "raw": "F ( third_floor ) & G ( green_room )"
+  },
+  "finally ( and ( the third floor , not ( the green room ) ) )": {
+    "formula": "finally ( and ( the third floor , not ( the green room ) ) )",
+    "raw": "F ( third_floor & ~ green_room )"
+  },
+  "until ( not ( the third floor ) , the green room )": {
+    "formula": "until ( not ( the third floor ) , the green room )",
+    "raw": "~ ( third_floor ) U ( green_room )"
+  },
+  "finally ( and ( the third floor , finally ( the orange room ) ) )": {
+    "formula": "finally ( and ( the third floor , finally ( the orange room ) ) )",
+    "raw": "F ( third_floor & F ( orange_room ) )"
+  },
+  "and ( finally ( the third floor ) , always ( the orange room ) )": {
+    "formula": "and ( finally ( the third floor ) , always ( the orange room ) )",
+    "raw": "F ( third_floor ) & G ( orange_room )"
+  },
+  "finally ( and ( the third floor , not ( the orange room ) ) )": {
+    "formula": "finally ( and ( the third floor , not ( the orange room ) ) )",
+    "raw": "F ( third_floor & ~ orange_room )"
+  },
+  "until ( not ( the third floor ) , the orange room )": {
+    "formula": "until ( not ( the third floor ) , the orange room )",
+    "raw": "~ ( third_floor ) U ( orange_room )"
+  },
+  "finally ( and ( the third floor , finally ( the purple room ) ) )": {
+    "formula": "finally ( and ( the third floor , finally ( the purple room ) ) )",
+    "raw": "F ( third_floor & F ( purple_room ) )"
+  },
+  "and ( finally ( the third floor ) , always ( the purple room ) )": {
+    "formula": "and ( finally ( the third floor ) , always ( the purple room ) )",
+    "raw": "F ( third_floor ) & G ( purple_room )"
+  },
+  "finally ( and ( the third floor , not ( the purple room ) ) )": {
+    "formula": "finally ( and ( the third floor , not ( the purple room ) ) )",
+    "raw": "F ( third_floor & ~ purple_room )"
+  },
+  "until ( not ( the third floor ) , the purple room )": {
+    "formula": "until ( not ( the third floor ) , the purple room )",
+    "raw": "~ ( third_floor ) U ( purple_room )"
+  },
+  "finally ( and ( the third floor , finally ( the red room ) ) )": {
+    "formula": "finally ( and ( the third floor , finally ( the red room ) ) )",
+    "raw": "F ( third_floor & F ( red_room ) )"
+  },
+  "and ( finally ( the third floor ) , always ( the red room ) )": {
+    "formula": "and ( finally ( the third floor ) , always ( the red room ) )",
+    "raw": "F ( third_floor ) & G ( red_room )"
+  },
+  "finally ( and ( the third floor , not ( the red room ) ) )": {
+    "formula": "finally ( and ( the third floor , not ( the red room ) ) )",
+    "raw": "F ( third_floor & ~ red_room )"
+  },
+  "until ( not ( the third floor ) , the red room )": {
+    "formula": "until ( not ( the third floor ) , the red room )",
+    "raw": "~ ( third_floor ) U ( red_room )"
+  },
+  "finally ( and ( the third floor , finally ( the yellow room ) ) )": {
+    "formula": "finally ( and ( the third floor , finally ( the yellow room ) ) )",
+    "raw": "F ( third_floor & F ( yellow_room ) )"
+  },
+  "and ( finally ( the third floor ) , always ( the yellow room ) )": {
+    "formula": "and ( finally ( the third floor ) , always ( the yellow room ) )",
+    "raw": "F ( third_floor ) & G ( yellow_room )"
+  },
+  "finally ( and ( the third floor , not ( the yellow room ) ) )": {
+    "formula": "finally ( and ( the third floor , not ( the yellow room ) ) )",
+    "raw": "F ( third_floor & ~ yellow_room )"
+  },
+  "until ( not ( the third floor ) , the yellow room )": {
+    "formula": "until ( not ( the third floor ) , the yellow room )",
+    "raw": "~ ( third_floor ) U ( yellow_room )"
+  },
+  "finally ( and ( the third floor , finally ( the first floor ) ) )": {
+    "formula": "finally ( and ( the third floor , finally ( the first floor ) ) )",
+    "raw": "F ( third_floor & F ( first_floor ) )"
+  },
+  "and ( finally ( the third floor ) , always ( the first floor ) )": {
+    "formula": "and ( finally ( the third floor ) , always ( the first floor ) )",
+    "raw": "F ( third_floor ) & G ( first_floor )"
+  },
+  "finally ( and ( the third floor , not ( the first floor ) ) )": {
+    "formula": "finally ( and ( the third floor , not ( the first floor ) ) )",
+    "raw": "F ( third_floor & ~ first_floor )"
+  },
+  "until ( not ( the third floor ) , the first floor )": {
+    "formula": "until ( not ( the third floor ) , the first floor )",
+    "raw": "~ ( third_floor ) U ( first_floor )"
+  },
+  "finally ( and ( the third floor , finally ( the second floor ) ) )": {
+    "formula": "finally ( and ( the third floor , finally ( the second floor ) ) )",
+    "raw": "F ( third_floor & F ( second_floor ) )"
+  },
+  "and ( finally ( the third floor ) , always ( the second floor ) )": {
+    "formula": "and ( finally ( the third floor ) , always ( the second floor ) )",
+    "raw": "F ( third_floor ) & G ( second_floor )"
+  },
+  "finally ( and ( the third floor , not ( the second floor ) ) )": {
+    "formula": "finally ( and ( the third floor , not ( the second floor ) ) )",
+    "raw": "F ( third_floor & ~ second_floor )"
+  },
+  "until ( not ( the third floor ) , the second floor )": {
+    "formula": "until ( not ( the third floor ) , the second floor )",
+    "raw": "~ ( third_floor ) U ( second_floor )"
+  },
+  "finally ( and ( the third floor , finally ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the third floor , finally ( landmark 1 ) ) )",
+    "raw": "F ( third_floor & F ( landmark_1 ) )"
+  },
+  "and ( finally ( the third floor ) , always ( landmark 1 ) )": {
+    "formula": "and ( finally ( the third floor ) , always ( landmark 1 ) )",
+    "raw": "F ( third_floor ) & G ( landmark_1 )"
+  },
+  "finally ( and ( the third floor , not ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( the third floor , not ( landmark 1 ) ) )",
+    "raw": "F ( third_floor & ~ landmark_1 )"
+  },
+  "until ( not ( the third floor ) , landmark 1 )": {
+    "formula": "until ( not ( the third floor ) , landmark 1 )",
+    "raw": "~ ( third_floor ) U ( landmark_1 )"
+  },
+  "finally ( and ( the third floor , finally ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the third floor , finally ( landmark 2 ) ) )",
+    "raw": "F ( third_floor & F ( landmark_2 ) )"
+  },
+  "and ( finally ( the third floor ) , always ( landmark 2 ) )": {
+    "formula": "and ( finally ( the third floor ) , always ( landmark 2 ) )",
+    "raw": "F ( third_floor ) & G ( landmark_2 )"
+  },
+  "finally ( and ( the third floor , not ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( the third floor , not ( landmark 2 ) ) )",
+    "raw": "F ( third_floor & ~ landmark_2 )"
+  },
+  "until ( not ( the third floor ) , landmark 2 )": {
+    "formula": "until ( not ( the third floor ) , landmark 2 )",
+    "raw": "~ ( third_floor ) U ( landmark_2 )"
+  },
+  "finally ( and ( the third floor , finally ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the third floor , finally ( landmark 3 ) ) )",
+    "raw": "F ( third_floor & F ( landmark_3 ) )"
+  },
+  "and ( finally ( the third floor ) , always ( landmark 3 ) )": {
+    "formula": "and ( finally ( the third floor ) , always ( landmark 3 ) )",
+    "raw": "F ( third_floor ) & G ( landmark_3 )"
+  },
+  "finally ( and ( the third floor , not ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( the third floor , not ( landmark 3 ) ) )",
+    "raw": "F ( third_floor & ~ landmark_3 )"
+  },
+  "until ( not ( the third floor ) , landmark 3 )": {
+    "formula": "until ( not ( the third floor ) , landmark 3 )",
+    "raw": "~ ( third_floor ) U ( landmark_3 )"
+  },
+  "finally ( landmark 1 )": {
+    "formula": "finally ( landmark 1 )",
+    "raw": "F ( landmark_1 )"
+  },
+  "finally ( and ( landmark 1 , finally ( the blue room ) ) )": {
+    "formula": "finally ( and ( landmark 1 , finally ( the blue room ) ) )",
+    "raw": "F ( landmark_1 & F ( blue_room ) )"
+  },
+  "and ( finally ( landmark 1 ) , always ( the blue room ) )": {
+    "formula": "and ( finally ( landmark 1 ) , always ( the blue room ) )",
+    "raw": "F ( landmark_1 ) & G ( blue_room )"
+  },
+  "finally ( and ( landmark 1 , not ( the blue room ) ) )": {
+    "formula": "finally ( and ( landmark 1 , not ( the blue room ) ) )",
+    "raw": "F ( landmark_1 & ~ blue_room )"
+  },
+  "until ( not ( landmark 1 ) , the blue room )": {
+    "formula": "until ( not ( landmark 1 ) , the blue room )",
+    "raw": "~ ( landmark_1 ) U ( blue_room )"
+  },
+  "finally ( and ( landmark 1 , finally ( the green room ) ) )": {
+    "formula": "finally ( and ( landmark 1 , finally ( the green room ) ) )",
+    "raw": "F ( landmark_1 & F ( green_room ) )"
+  },
+  "and ( finally ( landmark 1 ) , always ( the green room ) )": {
+    "formula": "and ( finally ( landmark 1 ) , always ( the green room ) )",
+    "raw": "F ( landmark_1 ) & G ( green_room )"
+  },
+  "finally ( and ( landmark 1 , not ( the green room ) ) )": {
+    "formula": "finally ( and ( landmark 1 , not ( the green room ) ) )",
+    "raw": "F ( landmark_1 & ~ green_room )"
+  },
+  "until ( not ( landmark 1 ) , the green room )": {
+    "formula": "until ( not ( landmark 1 ) , the green room )",
+    "raw": "~ ( landmark_1 ) U ( green_room )"
+  },
+  "finally ( and ( landmark 1 , finally ( the orange room ) ) )": {
+    "formula": "finally ( and ( landmark 1 , finally ( the orange room ) ) )",
+    "raw": "F ( landmark_1 & F ( orange_room ) )"
+  },
+  "and ( finally ( landmark 1 ) , always ( the orange room ) )": {
+    "formula": "and ( finally ( landmark 1 ) , always ( the orange room ) )",
+    "raw": "F ( landmark_1 ) & G ( orange_room )"
+  },
+  "finally ( and ( landmark 1 , not ( the orange room ) ) )": {
+    "formula": "finally ( and ( landmark 1 , not ( the orange room ) ) )",
+    "raw": "F ( landmark_1 & ~ orange_room )"
+  },
+  "until ( not ( landmark 1 ) , the orange room )": {
+    "formula": "until ( not ( landmark 1 ) , the orange room )",
+    "raw": "~ ( landmark_1 ) U ( orange_room )"
+  },
+  "finally ( and ( landmark 1 , finally ( the purple room ) ) )": {
+    "formula": "finally ( and ( landmark 1 , finally ( the purple room ) ) )",
+    "raw": "F ( landmark_1 & F ( purple_room ) )"
+  },
+  "and ( finally ( landmark 1 ) , always ( the purple room ) )": {
+    "formula": "and ( finally ( landmark 1 ) , always ( the purple room ) )",
+    "raw": "F ( landmark_1 ) & G ( purple_room )"
+  },
+  "finally ( and ( landmark 1 , not ( the purple room ) ) )": {
+    "formula": "finally ( and ( landmark 1 , not ( the purple room ) ) )",
+    "raw": "F ( landmark_1 & ~ purple_room )"
+  },
+  "until ( not ( landmark 1 ) , the purple room )": {
+    "formula": "until ( not ( landmark 1 ) , the purple room )",
+    "raw": "~ ( landmark_1 ) U ( purple_room )"
+  },
+  "finally ( and ( landmark 1 , finally ( the red room ) ) )": {
+    "formula": "finally ( and ( landmark 1 , finally ( the red room ) ) )",
+    "raw": "F ( landmark_1 & F ( red_room ) )"
+  },
+  "and ( finally ( landmark 1 ) , always ( the red room ) )": {
+    "formula": "and ( finally ( landmark 1 ) , always ( the red room ) )",
+    "raw": "F ( landmark_1 ) & G ( red_room )"
+  },
+  "finally ( and ( landmark 1 , not ( the red room ) ) )": {
+    "formula": "finally ( and ( landmark 1 , not ( the red room ) ) )",
+    "raw": "F ( landmark_1 & ~ red_room )"
+  },
+  "until ( not ( landmark 1 ) , the red room )": {
+    "formula": "until ( not ( landmark 1 ) , the red room )",
+    "raw": "~ ( landmark_1 ) U ( red_room )"
+  },
+  "finally ( and ( landmark 1 , finally ( the yellow room ) ) )": {
+    "formula": "finally ( and ( landmark 1 , finally ( the yellow room ) ) )",
+    "raw": "F ( landmark_1 & F ( yellow_room ) )"
+  },
+  "and ( finally ( landmark 1 ) , always ( the yellow room ) )": {
+    "formula": "and ( finally ( landmark 1 ) , always ( the yellow room ) )",
+    "raw": "F ( landmark_1 ) & G ( yellow_room )"
+  },
+  "finally ( and ( landmark 1 , not ( the yellow room ) ) )": {
+    "formula": "finally ( and ( landmark 1 , not ( the yellow room ) ) )",
+    "raw": "F ( landmark_1 & ~ yellow_room )"
+  },
+  "until ( not ( landmark 1 ) , the yellow room )": {
+    "formula": "until ( not ( landmark 1 ) , the yellow room )",
+    "raw": "~ ( landmark_1 ) U ( yellow_room )"
+  },
+  "finally ( and ( landmark 1 , finally ( the first floor ) ) )": {
+    "formula": "finally ( and ( landmark 1 , finally ( the first floor ) ) )",
+    "raw": "F ( landmark_1 & F ( first_floor ) )"
+  },
+  "and ( finally ( landmark 1 ) , always ( the first floor ) )": {
+    "formula": "and ( finally ( landmark 1 ) , always ( the first floor ) )",
+    "raw": "F ( landmark_1 ) & G ( first_floor )"
+  },
+  "finally ( and ( landmark 1 , not ( the first floor ) ) )": {
+    "formula": "finally ( and ( landmark 1 , not ( the first floor ) ) )",
+    "raw": "F ( landmark_1 & ~ first_floor )"
+  },
+  "until ( not ( landmark 1 ) , the first floor )": {
+    "formula": "until ( not ( landmark 1 ) , the first floor )",
+    "raw": "~ ( landmark_1 ) U ( first_floor )"
+  },
+  "finally ( and ( landmark 1 , finally ( the second floor ) ) )": {
+    "formula": "finally ( and ( landmark 1 , finally ( the second floor ) ) )",
+    "raw": "F ( landmark_1 & F ( second_floor ) )"
+  },
+  "and ( finally ( landmark 1 ) , always ( the second floor ) )": {
+    "formula": "and ( finally ( landmark 1 ) , always ( the second floor ) )",
+    "raw": "F ( landmark_1 ) & G ( second_floor )"
+  },
+  "finally ( and ( landmark 1 , not ( the second floor ) ) )": {
+    "formula": "finally ( and ( landmark 1 , not ( the second floor ) ) )",
+    "raw": "F ( landmark_1 & ~ second_floor )"
+  },
+  "until ( not ( landmark 1 ) , the second floor )": {
+    "formula": "until ( not ( landmark 1 ) , the second floor )",
+    "raw": "~ ( landmark_1 ) U ( second_floor )"
+  },
+  "finally ( and ( landmark 1 , finally ( the third floor ) ) )": {
+    "formula": "finally ( and ( landmark 1 , finally ( the third floor ) ) )",
+    "raw": "F ( landmark_1 & F ( third_floor ) )"
+  },
+  "and ( finally ( landmark 1 ) , always ( the third floor ) )": {
+    "formula": "and ( finally ( landmark 1 ) , always ( the third floor ) )",
+    "raw": "F ( landmark_1 ) & G ( third_floor )"
+  },
+  "finally ( and ( landmark 1 , not ( the third floor ) ) )": {
+    "formula": "finally ( and ( landmark 1 , not ( the third floor ) ) )",
+    "raw": "F ( landmark_1 & ~ third_floor )"
+  },
+  "until ( not ( landmark 1 ) , the third floor )": {
+    "formula": "until ( not ( landmark 1 ) , the third floor )",
+    "raw": "~ ( landmark_1 ) U ( third_floor )"
+  },
+  "finally ( and ( landmark 1 , finally ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( landmark 1 , finally ( landmark 2 ) ) )",
+    "raw": "F ( landmark_1 & F ( landmark_2 ) )"
+  },
+  "and ( finally ( landmark 1 ) , always ( landmark 2 ) )": {
+    "formula": "and ( finally ( landmark 1 ) , always ( landmark 2 ) )",
+    "raw": "F ( landmark_1 ) & G ( landmark_2 )"
+  },
+  "finally ( and ( landmark 1 , not ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( landmark 1 , not ( landmark 2 ) ) )",
+    "raw": "F ( landmark_1 & ~ landmark_2 )"
+  },
+  "until ( not ( landmark 1 ) , landmark 2 )": {
+    "formula": "until ( not ( landmark 1 ) , landmark 2 )",
+    "raw": "~ ( landmark_1 ) U ( landmark_2 )"
+  },
+  "finally ( and ( landmark 1 , finally ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( landmark 1 , finally ( landmark 3 ) ) )",
+    "raw": "F ( landmark_1 & F ( landmark_3 ) )"
+  },
+  "and ( finally ( landmark 1 ) , always ( landmark 3 ) )": {
+    "formula": "and ( finally ( landmark 1 ) , always ( landmark 3 ) )",
+    "raw": "F ( landmark_1 ) & G ( landmark_3 )"
+  },
+  "finally ( and ( landmark 1 , not ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( landmark 1 , not ( landmark 3 ) ) )",
+    "raw": "F ( landmark_1 & ~ landmark_3 )"
+  },
+  "until ( not ( landmark 1 ) , landmark 3 )": {
+    "formula": "until ( not ( landmark 1 ) , landmark 3 )",
+    "raw": "~ ( landmark_1 ) U ( landmark_3 )"
+  },
+  "finally ( landmark 2 )": {
+    "formula": "finally ( landmark 2 )",
+    "raw": "F ( landmark_2 )"
+  },
+  "finally ( and ( landmark 2 , finally ( the blue room ) ) )": {
+    "formula": "finally ( and ( landmark 2 , finally ( the blue room ) ) )",
+    "raw": "F ( landmark_2 & F ( blue_room ) )"
+  },
+  "and ( finally ( landmark 2 ) , always ( the blue room ) )": {
+    "formula": "and ( finally ( landmark 2 ) , always ( the blue room ) )",
+    "raw": "F ( landmark_2 ) & G ( blue_room )"
+  },
+  "finally ( and ( landmark 2 , not ( the blue room ) ) )": {
+    "formula": "finally ( and ( landmark 2 , not ( the blue room ) ) )",
+    "raw": "F ( landmark_2 & ~ blue_room )"
+  },
+  "until ( not ( landmark 2 ) , the blue room )": {
+    "formula": "until ( not ( landmark 2 ) , the blue room )",
+    "raw": "~ ( landmark_2 ) U ( blue_room )"
+  },
+  "finally ( and ( landmark 2 , finally ( the green room ) ) )": {
+    "formula": "finally ( and ( landmark 2 , finally ( the green room ) ) )",
+    "raw": "F ( landmark_2 & F ( green_room ) )"
+  },
+  "and ( finally ( landmark 2 ) , always ( the green room ) )": {
+    "formula": "and ( finally ( landmark 2 ) , always ( the green room ) )",
+    "raw": "F ( landmark_2 ) & G ( green_room )"
+  },
+  "finally ( and ( landmark 2 , not ( the green room ) ) )": {
+    "formula": "finally ( and ( landmark 2 , not ( the green room ) ) )",
+    "raw": "F ( landmark_2 & ~ green_room )"
+  },
+  "until ( not ( landmark 2 ) , the green room )": {
+    "formula": "until ( not ( landmark 2 ) , the green room )",
+    "raw": "~ ( landmark_2 ) U ( green_room )"
+  },
+  "finally ( and ( landmark 2 , finally ( the orange room ) ) )": {
+    "formula": "finally ( and ( landmark 2 , finally ( the orange room ) ) )",
+    "raw": "F ( landmark_2 & F ( orange_room ) )"
+  },
+  "and ( finally ( landmark 2 ) , always ( the orange room ) )": {
+    "formula": "and ( finally ( landmark 2 ) , always ( the orange room ) )",
+    "raw": "F ( landmark_2 ) & G ( orange_room )"
+  },
+  "finally ( and ( landmark 2 , not ( the orange room ) ) )": {
+    "formula": "finally ( and ( landmark 2 , not ( the orange room ) ) )",
+    "raw": "F ( landmark_2 & ~ orange_room )"
+  },
+  "until ( not ( landmark 2 ) , the orange room )": {
+    "formula": "until ( not ( landmark 2 ) , the orange room )",
+    "raw": "~ ( landmark_2 ) U ( orange_room )"
+  },
+  "finally ( and ( landmark 2 , finally ( the purple room ) ) )": {
+    "formula": "finally ( and ( landmark 2 , finally ( the purple room ) ) )",
+    "raw": "F ( landmark_2 & F ( purple_room ) )"
+  },
+  "and ( finally ( landmark 2 ) , always ( the purple room ) )": {
+    "formula": "and ( finally ( landmark 2 ) , always ( the purple room ) )",
+    "raw": "F ( landmark_2 ) & G ( purple_room )"
+  },
+  "finally ( and ( landmark 2 , not ( the purple room ) ) )": {
+    "formula": "finally ( and ( landmark 2 , not ( the purple room ) ) )",
+    "raw": "F ( landmark_2 & ~ purple_room )"
+  },
+  "until ( not ( landmark 2 ) , the purple room )": {
+    "formula": "until ( not ( landmark 2 ) , the purple room )",
+    "raw": "~ ( landmark_2 ) U ( purple_room )"
+  },
+  "finally ( and ( landmark 2 , finally ( the red room ) ) )": {
+    "formula": "finally ( and ( landmark 2 , finally ( the red room ) ) )",
+    "raw": "F ( landmark_2 & F ( red_room ) )"
+  },
+  "and ( finally ( landmark 2 ) , always ( the red room ) )": {
+    "formula": "and ( finally ( landmark 2 ) , always ( the red room ) )",
+    "raw": "F ( landmark_2 ) & G ( red_room )"
+  },
+  "finally ( and ( landmark 2 , not ( the red room ) ) )": {
+    "formula": "finally ( and ( landmark 2 , not ( the red room ) ) )",
+    "raw": "F ( landmark_2 & ~ red_room )"
+  },
+  "until ( not ( landmark 2 ) , the red room )": {
+    "formula": "until ( not ( landmark 2 ) , the red room )",
+    "raw": "~ ( landmark_2 ) U ( red_room )"
+  },
+  "finally ( and ( landmark 2 , finally ( the yellow room ) ) )": {
+    "formula": "finally ( and ( landmark 2 , finally ( the yellow room ) ) )",
+    "raw": "F ( landmark_2 & F ( yellow_room ) )"
+  },
+  "and ( finally ( landmark 2 ) , always ( the yellow room ) )": {
+    "formula": "and ( finally ( landmark 2 ) , always ( the yellow room ) )",
+    "raw": "F ( landmark_2 ) & G ( yellow_room )"
+  },
+  "finally ( and ( landmark 2 , not ( the yellow room ) ) )": {
+    "formula": "finally ( and ( landmark 2 , not ( the yellow room ) ) )",
+    "raw": "F ( landmark_2 & ~ yellow_room )"
+  },
+  "until ( not ( landmark 2 ) , the yellow room )": {
+    "formula": "until ( not ( landmark 2 ) , the yellow room )",
+    "raw": "~ ( landmark_2 ) U ( yellow_room )"
+  },
+  "finally ( and ( landmark 2 , finally ( the first floor ) ) )": {
+    "formula": "finally ( and ( landmark 2 , finally ( the first floor ) ) )",
+    "raw": "F ( landmark_2 & F ( first_floor ) )"
+  },
+  "and ( finally ( landmark 2 ) , always ( the first floor ) )": {
+    "formula": "and ( finally ( landmark 2 ) , always ( the first floor ) )",
+    "raw": "F ( landmark_2 ) & G ( first_floor )"
+  },
+  "finally ( and ( landmark 2 , not ( the first floor ) ) )": {
+    "formula": "finally ( and ( landmark 2 , not ( the first floor ) ) )",
+    "raw": "F ( landmark_2 & ~ first_floor )"
+  },
+  "until ( not ( landmark 2 ) , the first floor )": {
+    "formula": "until ( not ( landmark 2 ) , the first floor )",
+    "raw": "~ ( landmark_2 ) U ( first_floor )"
+  },
+  "finally ( and ( landmark 2 , finally ( the second floor ) ) )": {
+    "formula": "finally ( and ( landmark 2 , finally ( the second floor ) ) )",
+    "raw": "F ( landmark_2 & F ( second_floor ) )"
+  },
+  "and ( finally ( landmark 2 ) , always ( the second floor ) )": {
+    "formula": "and ( finally ( landmark 2 ) , always ( the second floor ) )",
+    "raw": "F ( landmark_2 ) & G ( second_floor )"
+  },
+  "finally ( and ( landmark 2 , not ( the second floor ) ) )": {
+    "formula": "finally ( and ( landmark 2 , not ( the second floor ) ) )",
+    "raw": "F ( landmark_2 & ~ second_floor )"
+  },
+  "until ( not ( landmark 2 ) , the second floor )": {
+    "formula": "until ( not ( landmark 2 ) , the second floor )",
+    "raw": "~ ( landmark_2 ) U ( second_floor )"
+  },
+  "finally ( and ( landmark 2 , finally ( the third floor ) ) )": {
+    "formula": "finally ( and ( landmark 2 , finally ( the third floor ) ) )",
+    "raw": "F ( landmark_2 & F ( third_floor ) )"
+  },
+  "and ( finally ( landmark 2 ) , always ( the third floor ) )": {
+    "formula": "and ( finally ( landmark 2 ) , always ( the third floor ) )",
+    "raw": "F ( landmark_2 ) & G ( third_floor )"
+  },
+  "finally ( and ( landmark 2 , not ( the third floor ) ) )": {
+    "formula": "finally ( and ( landmark 2 , not ( the third floor ) ) )",
+    "raw": "F ( landmark_2 & ~ third_floor )"
+  },
+  "until ( not ( landmark 2 ) , the third floor )": {
+    "formula": "until ( not ( landmark 2 ) , the third floor )",
+    "raw": "~ ( landmark_2 ) U ( third_floor )"
+  },
+  "finally ( and ( landmark 2 , finally ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( landmark 2 , finally ( landmark 1 ) ) )",
+    "raw": "F ( landmark_2 & F ( landmark_1 ) )"
+  },
+  "and ( finally ( landmark 2 ) , always ( landmark 1 ) )": {
+    "formula": "and ( finally ( landmark 2 ) , always ( landmark 1 ) )",
+    "raw": "F ( landmark_2 ) & G ( landmark_1 )"
+  },
+  "finally ( and ( landmark 2 , not ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( landmark 2 , not ( landmark 1 ) ) )",
+    "raw": "F ( landmark_2 & ~ landmark_1 )"
+  },
+  "until ( not ( landmark 2 ) , landmark 1 )": {
+    "formula": "until ( not ( landmark 2 ) , landmark 1 )",
+    "raw": "~ ( landmark_2 ) U ( landmark_1 )"
+  },
+  "finally ( and ( landmark 2 , finally ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( landmark 2 , finally ( landmark 3 ) ) )",
+    "raw": "F ( landmark_2 & F ( landmark_3 ) )"
+  },
+  "and ( finally ( landmark 2 ) , always ( landmark 3 ) )": {
+    "formula": "and ( finally ( landmark 2 ) , always ( landmark 3 ) )",
+    "raw": "F ( landmark_2 ) & G ( landmark_3 )"
+  },
+  "finally ( and ( landmark 2 , not ( landmark 3 ) ) )": {
+    "formula": "finally ( and ( landmark 2 , not ( landmark 3 ) ) )",
+    "raw": "F ( landmark_2 & ~ landmark_3 )"
+  },
+  "until ( not ( landmark 2 ) , landmark 3 )": {
+    "formula": "until ( not ( landmark 2 ) , landmark 3 )",
+    "raw": "~ ( landmark_2 ) U ( landmark_3 )"
+  },
+  "finally ( landmark 3 )": {
+    "formula": "finally ( landmark 3 )",
+    "raw": "F ( landmark_3 )"
+  },
+  "finally ( and ( landmark 3 , finally ( the blue room ) ) )": {
+    "formula": "finally ( and ( landmark 3 , finally ( the blue room ) ) )",
+    "raw": "F ( landmark_3 & F ( blue_room ) )"
+  },
+  "and ( finally ( landmark 3 ) , always ( the blue room ) )": {
+    "formula": "and ( finally ( landmark 3 ) , always ( the blue room ) )",
+    "raw": "F ( landmark_3 ) & G ( blue_room )"
+  },
+  "finally ( and ( landmark 3 , not ( the blue room ) ) )": {
+    "formula": "finally ( and ( landmark 3 , not ( the blue room ) ) )",
+    "raw": "F ( landmark_3 & ~ blue_room )"
+  },
+  "until ( not ( landmark 3 ) , the blue room )": {
+    "formula": "until ( not ( landmark 3 ) , the blue room )",
+    "raw": "~ ( landmark_3 ) U ( blue_room )"
+  },
+  "finally ( and ( landmark 3 , finally ( the green room ) ) )": {
+    "formula": "finally ( and ( landmark 3 , finally ( the green room ) ) )",
+    "raw": "F ( landmark_3 & F ( green_room ) )"
+  },
+  "and ( finally ( landmark 3 ) , always ( the green room ) )": {
+    "formula": "and ( finally ( landmark 3 ) , always ( the green room ) )",
+    "raw": "F ( landmark_3 ) & G ( green_room )"
+  },
+  "finally ( and ( landmark 3 , not ( the green room ) ) )": {
+    "formula": "finally ( and ( landmark 3 , not ( the green room ) ) )",
+    "raw": "F ( landmark_3 & ~ green_room )"
+  },
+  "until ( not ( landmark 3 ) , the green room )": {
+    "formula": "until ( not ( landmark 3 ) , the green room )",
+    "raw": "~ ( landmark_3 ) U ( green_room )"
+  },
+  "finally ( and ( landmark 3 , finally ( the orange room ) ) )": {
+    "formula": "finally ( and ( landmark 3 , finally ( the orange room ) ) )",
+    "raw": "F ( landmark_3 & F ( orange_room ) )"
+  },
+  "and ( finally ( landmark 3 ) , always ( the orange room ) )": {
+    "formula": "and ( finally ( landmark 3 ) , always ( the orange room ) )",
+    "raw": "F ( landmark_3 ) & G ( orange_room )"
+  },
+  "finally ( and ( landmark 3 , not ( the orange room ) ) )": {
+    "formula": "finally ( and ( landmark 3 , not ( the orange room ) ) )",
+    "raw": "F ( landmark_3 & ~ orange_room )"
+  },
+  "until ( not ( landmark 3 ) , the orange room )": {
+    "formula": "until ( not ( landmark 3 ) , the orange room )",
+    "raw": "~ ( landmark_3 ) U ( orange_room )"
+  },
+  "finally ( and ( landmark 3 , finally ( the purple room ) ) )": {
+    "formula": "finally ( and ( landmark 3 , finally ( the purple room ) ) )",
+    "raw": "F ( landmark_3 & F ( purple_room ) )"
+  },
+  "and ( finally ( landmark 3 ) , always ( the purple room ) )": {
+    "formula": "and ( finally ( landmark 3 ) , always ( the purple room ) )",
+    "raw": "F ( landmark_3 ) & G ( purple_room )"
+  },
+  "finally ( and ( landmark 3 , not ( the purple room ) ) )": {
+    "formula": "finally ( and ( landmark 3 , not ( the purple room ) ) )",
+    "raw": "F ( landmark_3 & ~ purple_room )"
+  },
+  "until ( not ( landmark 3 ) , the purple room )": {
+    "formula": "until ( not ( landmark 3 ) , the purple room )",
+    "raw": "~ ( landmark_3 ) U ( purple_room )"
+  },
+  "finally ( and ( landmark 3 , finally ( the red room ) ) )": {
+    "formula": "finally ( and ( landmark 3 , finally ( the red room ) ) )",
+    "raw": "F ( landmark_3 & F ( red_room ) )"
+  },
+  "and ( finally ( landmark 3 ) , always ( the red room ) )": {
+    "formula": "and ( finally ( landmark 3 ) , always ( the red room ) )",
+    "raw": "F ( landmark_3 ) & G ( red_room )"
+  },
+  "finally ( and ( landmark 3 , not ( the red room ) ) )": {
+    "formula": "finally ( and ( landmark 3 , not ( the red room ) ) )",
+    "raw": "F ( landmark_3 & ~ red_room )"
+  },
+  "until ( not ( landmark 3 ) , the red room )": {
+    "formula": "until ( not ( landmark 3 ) , the red room )",
+    "raw": "~ ( landmark_3 ) U ( red_room )"
+  },
+  "finally ( and ( landmark 3 , finally ( the yellow room ) ) )": {
+    "formula": "finally ( and ( landmark 3 , finally ( the yellow room ) ) )",
+    "raw": "F ( landmark_3 & F ( yellow_room ) )"
+  },
+  "and ( finally ( landmark 3 ) , always ( the yellow room ) )": {
+    "formula": "and ( finally ( landmark 3 ) , always ( the yellow room ) )",
+    "raw": "F ( landmark_3 ) & G ( yellow_room )"
+  },
+  "finally ( and ( landmark 3 , not ( the yellow room ) ) )": {
+    "formula": "finally ( and ( landmark 3 , not ( the yellow room ) ) )",
+    "raw": "F ( landmark_3 & ~ yellow_room )"
+  },
+  "until ( not ( landmark 3 ) , the yellow room )": {
+    "formula": "until ( not ( landmark 3 ) , the yellow room )",
+    "raw": "~ ( landmark_3 ) U ( yellow_room )"
+  },
+  "finally ( and ( landmark 3 , finally ( the first floor ) ) )": {
+    "formula": "finally ( and ( landmark 3 , finally ( the first floor ) ) )",
+    "raw": "F ( landmark_3 & F ( first_floor ) )"
+  },
+  "and ( finally ( landmark 3 ) , always ( the first floor ) )": {
+    "formula": "and ( finally ( landmark 3 ) , always ( the first floor ) )",
+    "raw": "F ( landmark_3 ) & G ( first_floor )"
+  },
+  "finally ( and ( landmark 3 , not ( the first floor ) ) )": {
+    "formula": "finally ( and ( landmark 3 , not ( the first floor ) ) )",
+    "raw": "F ( landmark_3 & ~ first_floor )"
+  },
+  "until ( not ( landmark 3 ) , the first floor )": {
+    "formula": "until ( not ( landmark 3 ) , the first floor )",
+    "raw": "~ ( landmark_3 ) U ( first_floor )"
+  },
+  "finally ( and ( landmark 3 , finally ( the second floor ) ) )": {
+    "formula": "finally ( and ( landmark 3 , finally ( the second floor ) ) )",
+    "raw": "F ( landmark_3 & F ( second_floor ) )"
+  },
+  "and ( finally ( landmark 3 ) , always ( the second floor ) )": {
+    "formula": "and ( finally ( landmark 3 ) , always ( the second floor ) )",
+    "raw": "F ( landmark_3 ) & G ( second_floor )"
+  },
+  "finally ( and ( landmark 3 , not ( the second floor ) ) )": {
+    "formula": "finally ( and ( landmark 3 , not ( the second floor ) ) )",
+    "raw": "F ( landmark_3 & ~ second_floor )"
+  },
+  "until ( not ( landmark 3 ) , the second floor )": {
+    "formula": "until ( not ( landmark 3 ) , the second floor )",
+    "raw": "~ ( landmark_3 ) U ( second_floor )"
+  },
+  "finally ( and ( landmark 3 , finally ( the third floor ) ) )": {
+    "formula": "finally ( and ( landmark 3 , finally ( the third floor ) ) )",
+    "raw": "F ( landmark_3 & F ( third_floor ) )"
+  },
+  "and ( finally ( landmark 3 ) , always ( the third floor ) )": {
+    "formula": "and ( finally ( landmark 3 ) , always ( the third floor ) )",
+    "raw": "F ( landmark_3 ) & G ( third_floor )"
+  },
+  "finally ( and ( landmark 3 , not ( the third floor ) ) )": {
+    "formula": "finally ( and ( landmark 3 , not ( the third floor ) ) )",
+    "raw": "F ( landmark_3 & ~ third_floor )"
+  },
+  "until ( not ( landmark 3 ) , the third floor )": {
+    "formula": "until ( not ( landmark 3 ) , the third floor )",
+    "raw": "~ ( landmark_3 ) U ( third_floor )"
+  },
+  "finally ( and ( landmark 3 , finally ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( landmark 3 , finally ( landmark 1 ) ) )",
+    "raw": "F ( landmark_3 & F ( landmark_1 ) )"
+  },
+  "and ( finally ( landmark 3 ) , always ( landmark 1 ) )": {
+    "formula": "and ( finally ( landmark 3 ) , always ( landmark 1 ) )",
+    "raw": "F ( landmark_3 ) & G ( landmark_1 )"
+  },
+  "finally ( and ( landmark 3 , not ( landmark 1 ) ) )": {
+    "formula": "finally ( and ( landmark 3 , not ( landmark 1 ) ) )",
+    "raw": "F ( landmark_3 & ~ landmark_1 )"
+  },
+  "until ( not ( landmark 3 ) , landmark 1 )": {
+    "formula": "until ( not ( landmark 3 ) , landmark 1 )",
+    "raw": "~ ( landmark_3 ) U ( landmark_1 )"
+  },
+  "finally ( and ( landmark 3 , finally ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( landmark 3 , finally ( landmark 2 ) ) )",
+    "raw": "F ( landmark_3 & F ( landmark_2 ) )"
+  },
+  "and ( finally ( landmark 3 ) , always ( landmark 2 ) )": {
+    "formula": "and ( finally ( landmark 3 ) , always ( landmark 2 ) )",
+    "raw": "F ( landmark_3 ) & G ( landmark_2 )"
+  },
+  "finally ( and ( landmark 3 , not ( landmark 2 ) ) )": {
+    "formula": "finally ( and ( landmark 3 , not ( landmark 2 ) ) )",
+    "raw": "F ( landmark_3 & ~ landmark_2 )"
+  },
+  "until ( not ( landmark 3 ) , landmark 2 )": {
+    "formula": "until ( not ( landmark 3 ) , landmark 2 )",
+    "raw": "~ ( landmark_3 ) U ( landmark_2 )"
+  }
+}
