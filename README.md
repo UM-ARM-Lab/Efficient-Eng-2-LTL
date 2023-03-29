@@ -2,7 +2,7 @@
 
 ![Demo](https://i.imgur.com/ynNTrpf.png)
 
-[[Homepage](https://um-arm-lab.github.io/Efficient-Eng-2-LTL/)] [[Paper]()] [[Video](https://drive.google.com/file/d/14Sy5y76YglZ6X3Y3ZZBZZiMGBA9gME9G/view?usp=sharing)] [[Poster](https://drive.google.com/file/d/1j0aZoROb1EKC0oRYYBSwBIx4Xp8ElowN/view?usp=sharing)]
+[[Homepage](https://um-arm-lab.github.io/Efficient-Eng-2-LTL/)] [[Paper](https://arxiv.org/abs/2303.08006)] [[Video](https://drive.google.com/file/d/14Sy5y76YglZ6X3Y3ZZBZZiMGBA9gME9G/view?usp=sharing)] [[Poster](https://drive.google.com/file/d/1j0aZoROb1EKC0oRYYBSwBIx4Xp8ElowN/view?usp=sharing)]
 
 > The associated repo for paper "Data-Efficient Learning of Natural Language to Linear Temporal Logic Translators for Robot Task Specification".
 
@@ -94,7 +94,12 @@ python -m semantic_parsing_with_constrained_lm.run_exp \
 The domain name is the same as the training step.
 
 ## Cite
-
+To appear at ICRA 2023
 ```bibtex
-PAPER TO BE RELEASED
+@article{pan2023data,
+  title={Data-Efficient Learning of Natural Language to Linear Temporal Logic Translators for Robot Task Specification},
+  author={Pan, Jiayi and Chou, Glen and Berenson, Dmitry},
+  journal={arXiv preprint arXiv:2303.08006},
+  year={2023}
+}
 ```
