@@ -23,6 +23,7 @@ The constrained decoding inference code is based on: [microsoft/semantic_parsing
 
 ## Reproduce the Results
 
+Following are the instructions for reproducing the result for our model. For baselines, come and check out [this link](https://github.com/UM-ARM-Lab/Efficient-Eng-2-LTL/issues/1).
 ### Environment Setup
 
 Install the dependencies:
