@@ -30,8 +30,8 @@ Install the dependencies:
 
 ```bash
 pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113 # make sure the version is compatible with your cuda version
-pip install transformers
-pip install datasets
+pip install transformers datasets
+pip install sentencepiece
 pip install jsons appdirs blobfile cached-property httpx  typer whoosh more_itertools
 pip install --upgrade protobuf==3.20.0
 ```
@@ -39,7 +39,8 @@ pip install --upgrade protobuf==3.20.0
 Download BART-large model:
 
 ```bash
-python ./run/semantic_parsing_with_constrained_lm/finetune/download_huggingface_lms.py
+cd ./run
+python ./semantic_parsing_with_constrained_lm/finetune/download_huggingface_lms.py
 ```
 
 ### Prepare the Dataset
@@ -57,14 +58,14 @@ To actually process the raw dataset, you can follow the steps below:
 In our paper, we use the [BART-large model](https://huggingface.co/facebook/bart-large) because it is efficient to fine-tune on a single GPU. Our proposed method can be easily applied to other potentially stronger language models like [T5-XXL](https://arxiv.org/abs/1910.10683) or [GPT-3](https://arxiv.org/abs/2005.14165).
 
 ```sh
-export PRETRAINED_MODEL_DIR=facebook/bart-large
+export PRETRAINED_MODEL_DIR=huggingface_models/bart-large
 export TRAINED_MODEL_DIR=trained_models/
 
-DOMAIN=TODO
-
+cd ./run
+DOMAIN=TODO # for example, DOMAIN=pick-syn-aug
 python -m semantic_parsing_with_constrained_lm.finetune.lm_finetune \
         --config-name semantic_parsing_with_constrained_lm.finetune.configs.emnlp_train_config \
-        --exp-names ltl_pick-${DOMAIN}_utterance
+        --exp-names ltl_${DOMAIN}_utterance
 ```
 
 Here DOMAIN determines which experiment to run.
@@ -79,7 +80,7 @@ DOMAIN: {dataset_name}-{experiment_name}
 ### Inference
 
 ```sh
-export PRETRAINED_MODEL_DIR=facebook/bart-large
+export PRETRAINED_MODEL_DIR=huggingface_models/bart-large
 export TRAINED_MODEL_DIR=trained_models/
 
 DOMAIN=TODO
@@ -95,7 +96,6 @@ python -m semantic_parsing_with_constrained_lm.run_exp \
 The domain name is the same as the training step.
 
 ## Cite
-To appear at ICRA 2023
 ```bibtex
 @article{pan2023data,
   title={Data-Efficient Learning of Natural Language to Linear Temporal Logic Translators for Robot Task Specification},
